@@ -1,0 +1,83 @@
+[
+  {
+      
+    "Si": 8,
+    "no": 1,
+    "Pregunta": "¿Tiene usted alguna inflamación o dolor en el escroto(testículos)?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Presenta secreción de color amarillento o verdoso que le sale de la punta del pene?",
+    "diagnostico": "Usted puede tener una INFECCIÓN DE TRANSMISIÓN SEXUAL o URETRITIS, una inflamación de la uretra."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Tiene dolor o una sensación de ardor al orinar?",
+    "diagnostico": "Usted puede tener una INFECCIÓN DE LA VEJIGA o URETRITIS, una inflamación de la uretra."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Presenta lesiones cutáneas dolorosas y que le produce comezón o granitos rojos en el pene?",
+    "diagnostico": "Usted puede tener una INFECCIÓN POR LEVADURAS, HERPES o algún otro tipo de infección. Las úlceras en el pene también pueden ser un síntoma de CÁNCER."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Presenta una lesión dolorosa en el cuerpo o en la cabeza del pene?",
+    "diagnostico": "Esto puede ser un síntoma de VERRUGAS GENITALES, SÍFILISo de una forma de CÁNCER."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Tiene toda la punta de su pene adolorida o hinchada?",
+    "diagnostico": "Usted puede tener BALANITIS, una infección de la cabeza del pene."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Presenta sangre en la orina o dolor cuando eyacula?",
+    "diagnostico": "Usted puede tener PROSTATITIS, una infección de la glándula prostática o una infección de la vesícula seminales (seminal)."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Presenta dolor al tener relaciones sexuales?",
+    "diagnostico": "Un número de problemas puede causar dolor durante el coito. Las causa posibles incluyen ALERGIA a un contraceptivo, ANSIEDAD, PROSTATITIS, INFECCIÓN o RESEQUEDAD en la pareja."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Presenta dolor intenso en el escroto(testículos) pese h no haber ha tenido ninguna lesión en el testículo?",
+    "diagnostico": "Usted puede tener una infección grave tal como EPIDIDIMITIS, o TORSIÓN TESTICULAR, una afección en la cual se corta el suministro de sangre al testículo."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "¿Tiene un dolor leve alrededor de un testículo?",
+    "diagnostico": "Sus síntomas pueden deberse a una forma menos grave de EPIDIDIMITIS."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 11,
+    "Pregunta": "¿Tiene un abultamiento duro o doloroso en un testículo?",
+    "diagnostico": "Un nudo doloroso puede ser un síntoma de ESPERMATOCELE, un quiste no canceroso, pero también puede ser CÁNCER TESTICULAR." 
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 12,
+    "Pregunta": "¿Presenta un abultamiento de consistencia suave en el escroto en uno o ambos?",
+    "diagnostico": "La inflamación acompañada de venas grandes y visibles, usualmente al lado izquierdo, son síntomas de VARICOCELE. Una inflamación no dolorosa en uno o ambos testículos también puede ser un signo de HIDROCELE. Su inflamación también puede ser por causa de un quiste pequeño."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Presenta un abultamiento de consistencia suave por encima del testículo que empeora, al levantar cosas o al toser?",
+    "diagnostico": "Esto podría ser una HERNIA INGUINAL, un asa intestinal que se sale hacia el escroto."      
+  }
+  ]

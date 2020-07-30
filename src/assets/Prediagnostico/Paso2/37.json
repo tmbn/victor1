@@ -1,0 +1,83 @@
+[
+  {
+      
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿Tiene usted fiebre?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Presenta dolor dentro del oído o secreción que le sale del oído?",
+    "diagnostico": "Usted podría tener OTITIS MEDIA, una infección del oído medio."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Presenta enrojecimiento e hinchazón en la oreja o en la piel a su alrededor?",
+    "diagnostico": "Su canal auditivo, oído externo y la piel alrededor del oído puede tener una INFECCIÓN muy fuerte."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Presenta dolor de cabeza y o dolor cuando se toca atrás de la oreja?",
+    "diagnostico": "La causa de su dolor puede ser MASTOIDITIS, una infección del hueso que está detrás del oído, o un GANGLIO LINFÁTICO INFLAMADO."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Presenta secreción o sangre que le sale del canal auditivo luego de haber presentado dolor intenso en el oído?",
+    "diagnostico": "Usted puede tener REVENTADO EL TÍMPANO."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Tiene el oído hinchado y le da comezón (piquiña o picor) o dolor cuando se halla el oído o el lóbulo del mismo?",
+    "diagnostico": "Su dolor puede ser por causa de OTITIS EXTERNA, una infección del canal auditivo que también se conoce con el nombre de oído de nadador."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "Presenta dolor cuando se halla la oreja o el ovulo",
+    "diagnostico": "El SÍNDROME DE DISFUNCIÓN DE LA ARTICULACIÓN TÉMPORO-MANDIBULAR (ATM), un trastorno que afecta la articulación de la mandíbula puede ser lo que le está causando dolor."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿La mandíbula le hace un ruido como «chasquido» cuando mastica o cuando abre la boca, o siente dolor en la mandíbula?",
+    "diagnostico": "El malestar de su oído puede ser porque usted tiene un BLOQUEO EN LA TROMPA DE EUSTAQUIO (AUDITIVA). Los resfriados y la gripe con frecuencia traen como consecuencia esta afección."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Escucha que tiene líquido dentro del oído y siente presión que no se corrige al toser, bostezar o tragar, y además tiene síntomas de gripe o resfriado?",
+    "diagnostico": "Un problema relacionado con un diente puede causar dolor irradiado (se siente) en el oído del mismo lado."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "¿Cuándo muerde algo, tiene dolor en el diente en el mismo lado que tiene el dolor de oído?",
+    "diagnostico": "Usted puede tener un BAROTRAUMA, también llamado oído de avión, lo cual ocurre por cambios en la altura y en la presión del aire."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 11,
+    "Pregunta": "¿El dolor de oído le comenzó durante o después de que viajo en avión?",
+    "diagnostico": "Una INFECCIÓN pequeña en el canal auditivo puede ser la causa." 
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 12,
+    "Pregunta": "¿Puede ver o sentir una protuberancia (espinilla o barro) en el canal auditivo?",
+    "diagnostico": "La causa de esto puede ser la acumulación de líquido (OTITIS SEROSA) o de cera en el canal auditivo (TAPÓN DE CERUMEN)."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿La persona afectada es un niño que no tiene dolor o enrojecimiento en el oído pero que está teniendo dificultad para escuchar?",
+    "diagnostico": "La causa de esto puede ser la acumulación de líquido (OTITIS SEROSA) o de cera en el canal auditivo (TAPÓN DE CERUMEN)."      
+  }
+  ]

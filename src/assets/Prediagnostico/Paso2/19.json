@@ -1,0 +1,77 @@
+[
+  {
+      
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿Tiene dolor o sensación de ardor al orinar?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": 2,
+    "no": 2,
+    "Pregunta": "¿Su orina no está trasparente(turbia)?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Tiene fiebre o dolor de espalda o ambos?",
+    "diagnostico": "El dolor y la fiebre pueden ser por causa de una infección de los riñones llamada PIELONEFRITIS."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Presenta dolores repentinos en la espalda o en la ingle(repentino)?",
+    "diagnostico": "El dolor y la fiebre pueden ser por causa de una infección de los riñones llamada PIELONEFRITIS."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Es hombre y tiene un dolor debajo del escroto?",
+    "diagnostico": "Usted podría tener PROSTATITIS, una infección de la glándula prostática."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Presenta secreción en la punta del pene?",
+    "diagnostico": "Usted podría tener PROSTATITIS, una infección de la glándula prostática."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "Orina pequeñas cantidades a la vez?",
+    "diagnostico": "Sus síntomas pueden deberse a una infección de la vejiga llamada CISTITIS, o a una irritación de la vejiga llamada CISTITIS INTERSTICIAL, o a un CÁLCULO RENAL atascado en la vejiga o a una substancia química en la orina."
+  },
+  {
+    "Si": 8,
+    "no": 8,
+    "Pregunta": "¿Produce más orina de lo normal?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": " ¿Ha estado bajando de peso, tomando demasiados líquidos y hay antecedentes de diabetes en su familia?",
+    "diagnostico": "9Usted puede tener DIABETES, una afección en la cual a su cuerpo le falta insulina o no la usa de la manera correcta."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "Es usted una mujer que deja escapar gotitas de orina cuando tose o estornuda?",
+    "diagnostico": "Sus síntomas pueden deberse a una debilidad en la vejiga causada por el parto o por el envejecimiento. Esta debilidad causa INCONTINENCIA POR ESTRÉS."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 11,
+    "Pregunta": "¿Presenta problemas para comenzar a orinar, tiene la orina entre cortada o se despierta muchas veces en la noche para orinar?",
+    "diagnostico": "Usted puede tener un problema relacionado con la GLÁNDULA PROSTÁTICA. Sus síntomas pueden deberse a un AGRANDAMIENTO benigno (no canceroso) o a una afección más grave tal como una INFECCIÓN o a CÁNCER." 
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Presenta sangre en la orina?",
+    "diagnostico": "Usted puede tener un CÁLCULO RENAL, un TUMOR en el riñón o en la vejiga, una INFECCIÓN DE LA VEJIGA, un TRAUMATISMO en el riñón, o posiblemente un TRASTORNO DEL SANGRADO." 
+  }
+  ]

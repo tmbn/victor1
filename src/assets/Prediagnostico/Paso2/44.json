@@ -1,0 +1,65 @@
+[
+  {
+      
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿Presenta usted hinchazón y sensación de dolor al tacto en una o en ambas mamas (senos)?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Ha dado luz hace poco?",
+    "diagnostico": "Al poco tiempo de haber dado a luz sus mamas (senos) se pueden congestionar con la leche causando hinchazón y sensación de dolor al tacto."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Presenta sensibilidad en las mamas(senos)y las siente más llenas y pesadas?",
+    "diagnostico": "Usted podría estar EMBARAZADA. Tener cambios en la manera como siente las mamas, fatiga, náuseas y orinar con frecuencia son algunos de los primeros signos (señas) de embarazo."
+  
+  },
+  {
+    "Si": 4,
+    "no": 4,
+    "Pregunta": "¿La hinchazón y sensibilidad en las mamas(senos) ocurren en la misma época durante cada ciclo menstrual?",
+    "diagnostico": "-"
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Siente áreas engrosadas o abultadas en su mama(senos)?",
+    "diagnostico": "Sus síntomas pueden ser por causa de MASTOPATÍA FIBROQUÍSTICA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Siente un abultamiento doloroso, pequeño, que no lo había notado antes?",
+    "diagnostico": "Este abultamiento puede ser un CRECIMIENTO o QUISTE no canceroso."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Siente un abultamiento no doloroso que está bien profundo en su mama (seno) y que podría estar adherido a sus costillas?",
+    "diagnostico": "Un abultamiento firme que no causa dolor puede ser un signo de un problema más grave tal como CÁNCER DE MAMA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Está usted dando de lactar (dando pecho) y presenta dolor y agrietamiento del pezón?",
+    "diagnostico": "El dolor y agrietamiento persistente del pezón durante la lactancia, podría indicar una INFECCIÓN, o podría indicar que su bebé no se está adhiriendo bien al pezón mientras come."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Ha notado usted algún cambio en sus mamas (senos) tal como formación de hoyuelos o fruncimiento, enrojecimiento o descamación del pezón o de la piel de la mama, o ha notado que le sale alguna secreción del pezón?",
+    "diagnostico": "Éstos cambios pueden ser un signo de un problema grave tal como CÁNCER DE MAMA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Tiene una úlcera (lesión en la piel) en su mama que no sana?",
+    "diagnostico": "Una úlcera que no sana en la mama podría ser un signo de un problema grave."
+  }
+  ]

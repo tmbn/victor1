@@ -1,0 +1,67 @@
+[
+    {
+      "respuesta": "si",
+      "Si": 1,
+      "no": 1,
+      "Pregunta": "¿Tiene sensación de falta de aire de inicio brusco (en ausencia de cualquier otra patología que justifique este síntoma)?",
+      "diagnostico": "Según tus respuestas, es MUY PROBABLE que tus síntomas estén relacionados con COVID-19. Comunícate inmediatamente con un Médico de Hospitapp."
+      
+    },
+    {
+      "respuesta": "no",
+      "id": 1,
+      "Si": 2,
+      "no": 2,
+      "Pregunta": "¿Tienes fiebre? (+37.7ºC)?",
+      "diagnostico": "Según tus respuestas, es POCO PROBABLE que tus síntomas estén relacionados con COVID-19.Puedes consultar con un Médico de Hospitapp para que pueda analizar tu caso detenidamente."
+    },
+    {
+      "respuesta": "no",
+      "id": 2,
+      "Si": 3,
+      "no": 3,
+      "Pregunta": "¿Tienes tos seca y persistente?",
+      "diagnostico": "Según tus respuestas, es POCO PROBABLE que tus síntomas estén relacionados con COVID-19.Puedes consultar con un Médico de Hospitapp para que pueda analizar tu caso detenidamente."
+    
+    },
+    {
+      "respuesta": "no",
+      "id": 3,
+      "Si": 4,
+      "no": 4,
+      "Pregunta": "¿Has tenido contacto estrecho con algún paciente positivo confirmado?",
+      "diagnostico": "Según tus respuestas, es POCO PROBABLE que tus síntomas estén relacionados con COVID-19.Puedes consultar con un Médico de Hospitapp para que pueda analizar tu caso detenidamente."
+    },    
+    {
+      "respuesta": "no",
+      "id": 4,
+      "Si": 5,
+      "no": 5,
+      "Pregunta": "¿Tienes mucosidad en la nariz? ",
+      "diagnostico":"Según tus respuestas, es POCO PROBABLE que tus síntomas estén relacionados con COVID-19.Puedes consultar con un Médico de Hospitapp para que pueda analizar tu caso detenidamente."
+    },
+    {
+      "respuesta": "no",
+      "id": 5,
+      "Si": 6,
+      "no": 6,
+      "Pregunta": "¿Tienes dolor muscular?",
+      "diagnostico": "Según tus respuestas, es POCO PROBABLE que tus síntomas estén relacionados con COVID-19.Puedes consultar con un Médico de Hospitapp para que pueda analizar tu caso detenidamente."
+    },
+    {
+      "respuesta": "no",
+      "id": 6,
+      "Si": 7,
+      "no": 7,
+      "Pregunta": "¿Tienes sintomatología gastrointestinal?",
+      "diagnostico": "Según tus respuestas, es POCO PROBABLE que tus síntomas estén relacionados con COVID-19.Puedes consultar con un Médico de Hospitapp para que pueda analizar tu caso detenidamente."
+    },
+    {
+      "respuesta": "ultimo",
+      "id": 7 ,
+      "Si": 0,
+      "no":   0,
+      "Pregunta": "¿Llevas más de 20 días con estos síntomas?",
+      "diagnostico": "Según tus respuestas, es POCO PROBABLE que tus síntomas estén relacionados con COVID-19.Puedes consultar con un Médico de Hospitapp para que pueda analizar tu caso detenidamente."
+    }
+  ]

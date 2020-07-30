@@ -1,0 +1,58 @@
+[
+ 
+  {
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿Presenta dolor al evacuar(defecar)?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Tiene que esforzarse cuando evacua o sus eses son duras y con formas redondas?",
+    "diagnostico": "CONSTIPACIÓN puede causar estos síntomas."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Presenta fiebre o escalofríos, dolor intenso en el ano incluso cuando no este evacuando (defecando)?",
+    "diagnostico": "Es posible que tenga un ABSCESO PERIRECTAL, un área infectada cerca del ano."
+  },    
+  {
+    "Si": 4,
+    "no": 4,
+    "Pregunta": "¿Presenta picazón cuando evacua cuando defeca?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Presenta una masa pequeña rojiza que sobresale de su ano?",
+    "diagnostico": " Es posible que tenga un PROLAPSO RECTAL. Las personas que tienen esta afección pueden sentir que no pueden vaciar completamente sus intestinos. También pueden pasar heces muy pequeñas o no pueden controlar sus deposiciones."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Realiza deposiciones con sangre o tiene un bulto pequeño cerca del ano?",
+    "diagnostico": " Es posible que tenga un HEMORROIDE externo o trombosado."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Presenta picazón alrededor del ano incluso cuando no está defecando?",
+    "diagnostico": "La picazón rectal puede ser un signo de una INFECCIÓN POR LEVADURA, ALERGIA al papel higiénico o PINWORMS."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Presenta eses grises o blanquecinas?",
+    "diagnostico": "La sangre puede ser de HEMORROIDES internos. Las hemorroides internas generalmente no causan ninguna molestia. Pero el CÁNCER RECTAL es otra posibilidad, especialmente si tiene más de 40 años. Otros signos de cáncer rectal pueden incluir cambios en la forma de las heces y un dolor de calambres en la parte inferior del estómago."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Presenta dificultad para evacuar sin un laxante o enema?",
+    "diagnostico": "DIAGNÓSTICO Es posible que tenga un BLOQUEO dentro o cerca de su vesícula biliar, o puede tener una ENFERMEDAD O INFECCIÓN DEL HÍGADO."
+  }
+  ]

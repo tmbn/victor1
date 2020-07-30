@@ -1,0 +1,35 @@
+[
+  {
+      
+    "Si": "/diagnostico",
+    "no": 1,
+    "Pregunta": "¿Su niño o niña está vomitando pequeñas cantidades de comida después de haberlo alimentado?",
+    "diagnostico": "Esto es probablemente una ocurrencia común para los bebés con fórmula. Menos común es una INTOLERANCIA A LA LACTOSA o ALERTE DE LECHE"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Su niño es menor a 3 meses y ha presentado vomito en gran cantidad?",
+    "diagnostico": "Este tipo de vómitos puede deberse a un bloqueo al final del estómago llamado ESTENOSIS PILÓRICA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Su niño o niña llora incontrolablemente, posiblemente mientras jala sus rodillas contra su pecho, y presenta además de vómito y diarrea?",
+    "diagnostico": "Su hijo puede tener una OBSTRUCCIÓN de los intestinos "
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "Su niño o niña presenta diarrea acompañada de náuseas y vomito",
+    "diagnostico": "El vómito y la diarrea pueden ser por GASTROENTERITIS VIRAL o posiblemente por un problema con una FÓRMULA."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Su niño tiene menos de dos años y ha estado vomitando continuamente por 6 a 12 horas B: su niño tiene más de dos años y ha estado vomitando por más de 12 a 24 horas?",
+    "diagnostico": "Su bebé o niño puede estar al borde de la DESHIDRATACIÓN."
+  }
+  ]

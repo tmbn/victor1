@@ -1,0 +1,47 @@
+[
+  {
+      
+    "Si": "/diagnostico",
+    "no": 1,
+    "Pregunta": "¿Presenta abultamiento indoloro de color blanquecino y de consistencia firme en la cabeza, cara o cuello?",
+    "diagnostico": "Usted puede tener un QUISTE SEBÁCEO, es decir una acumulación de aceite por debajo de la piel. Los quistes sebáceos, por lo general, son pequeños y crecen lentamente."
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Presenta enrojecimiento de la piel que parece picadura distribuido en cara, pecho y brazos que se acompañan de labios y ojos hinchados?",
+    "diagnostico": "Sus síntomas pueden deberse a una REACCIÓN ALÉRGICA o a URTICARIA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Tiene un abultamiento doloroso de color rosa o rojo, o un grupo de abultamientos pequeños en la frente o en la cara?",
+    "diagnostico": "Usted puede tener una infección en la piel tal como FORÚNCULOS, ÁNTRAX o ACNÉ. Un forúnculo es un abultamiento grande lleno de pus. Varios forúnculos agrupados se conocen con el nombre de Ántrax."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Presenta lesiones dolorosas en la piel como espinillas ubicadas en la frente o la cara?",
+    "diagnostico": "Usted puede tener una infección en la piel tal como FORÚNCULOS, ÁNTRAX o ACNÉ. Un forúnculo es un abultamiento grande lleno de pus. Varios forúnculos agrupados se conocen con el nombre de Ántrax."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Tiene áreas enrojecidas, descamadas y grasosas cerca del cuero cabelludo, en los pliegues de la nariz?",
+    "diagnostico": "Usted puede tener una irritación en la piel causad por ACNÉ ROSÁCEA o SEBORREA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Presenta hinchazón dolorosa en mejillas, debajo de la mandíbula y se acompaña con fiebre y dolor al masticar o tragar?",
+    "diagnostico": "Usted puede tener PAPERAS, una infección viral contagiosa que afecta las glándulas que están por debajo y al frente de las orejas."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Presenta una cicatriz que a crecido ",
+    "diagnostico": "Usted podría tener un QUELOIDE."
+  }
+  ]

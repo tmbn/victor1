@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "831014828885",
+    "firebase_url": "https://okcare-b5ac0.firebaseio.com",
+    "project_id": "okcare-b5ac0",
+    "storage_bucket": "okcare-b5ac0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831014828885:android:b4e9e38d2f1e7eef6b4ddc",
+        "android_client_info": {
+          "package_name": "com.okcare.okcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831014828885-tdushftdg4rmdov6k6q08r6r5m64logs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7gIDRdtmUyTBVztfC6KfebDA4fHntWf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831014828885-tdushftdg4rmdov6k6q08r6r5m64logs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

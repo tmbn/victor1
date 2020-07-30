@@ -1,0 +1,77 @@
+[
+  {
+      
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿El dolor o hinchazón en la rodilla le comenzó después de una caída, torcedura o algún tipo de lesión, después de una lesión con torcedura o después de que algo o alguien le pegó en la rodilla?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Tiene la rodilla deformada?",
+    "diagnostico": "Su rodilla puede estar FRACTURADA y usted puede haberse DESGARRADO gravemente algunos LIGAMENTOS, o solamente esto último, en el área interna de la rodilla."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Tiene la rótula hinchada, adolorida y caliente, y le duele realizar alguna actividad?",
+    "diagnostico": "Si usted se cayó con mucha fuerza sobre la rótula la puede tener FRACTURADA. De otro modo, la puede tener magullada o puede tener una BURSITIS PRERROTULIANA, una irritación de un saco lubricante y pequeño llamado Bursa, que se localiza al frente de la rótula."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Presenta dolor al tocarse la rodilla, presenta hinchazón o dolor después de haber permanecido sentado mucho tiempo o después de haber subido escaleras?",
+    "diagnostico": "Sus síntomas pueden deberse a un CARTÍLAGO DESCARRADO, LIGAMENTO DESGARRADO o a CONDROMALACIA ROTULIANA, el reblandecimiento del ligamento o cartílago que está por debajo de la rótula."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Presenta dolor intenso detrás de la rodilla y le duele al estirar la pierna?",
+    "diagnostico": "Usted pudo haberse DESGARRADO EL TENDÓN DE LA CORVA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Presenta dolor dentro de la articulación o siente que se le traba la rodilla?",
+    "diagnostico": "Esto puede deberse a un CARTÍLAGO DESGARRADO."
+  },
+  {
+    "Si": 7,
+    "no": 7,
+    "Pregunta": "¿Tiene la rodilla hinchada o enrojecida, o ambos?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Además de tener las rodillas hinchadas o enrojecidas, también tiene fiebre?",
+    "diagnostico": "Usted puede tener ARTRITIS REUMATOIDE, pero también puede tener un problema más grave tal como FIEBRE REUMÁTICA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Presenta dolor de rodilla hace muchos meses o incluso años, y empeora durante la noche?",
+    "diagnostico": "El dolor y la rigidez pueden ser por causa de GONARTROSIS."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "¿Presenta hinchazón la parte de atrás de la rodilla?",
+    "diagnostico": "La hinchazón puede deberse a un QUISTE DE BAKER."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 11,
+    "Pregunta": "¿La persona por la que consulta tiene entre 12 y 18 años de edad y presenta dolor debajo de la rótula que empeora con la actividad?",
+    "diagnostico": "Usted puede tener la ENFERMEDAD DE OSGOOD-SCHLATTER." 
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿La persona por la consulta es menor de 18 años de edad y presenta dolor en la rodilla?",
+    "diagnostico": "Usted puede tener un problema en la cadera que se siente como dolor en la rodilla." 
+  }
+  ]

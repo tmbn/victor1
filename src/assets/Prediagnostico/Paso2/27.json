@@ -1,0 +1,59 @@
+[
+  {
+      
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿Se golpeó o se cayó sobre su brazo, mano o muñeca?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿El área afectada está deformada o hinchada?",
+    "diagnostico": " Usted podría tener un hueso FRACTURADO."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿El dolor empeora cuando usted mueve su brazo, mano o muñeca?",
+    "diagnostico": "Si no hay fractura, usted puede tener un ESGUINCE en la extremidad."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Puede realizar actividades, sin embargo, el dolor empeora con movimientos repetitivos, por ejemplo mientras trabaja o practica algún deporte?",
+    "diagnostico": "Usted puede tener TENDINITIS, una inflamación de un tendón."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Le cuesta trabajo agarrar la manija (perilla) de la puerta, y le comienza el dolor en la parte externa de su codo y el dolor se extiende a lo largo de su brazo hasta la muñeca?",
+    "diagnostico": "Usted podría tener una EPICONDILITIS HUMERAL, un tipo de TENDINITIS."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Presenta amortiguamiento o dolor en los dedos, mano, muñeca o brazo, sobre todo cuando flexiona la muñeca?",
+    "diagnostico": "Usted podría tener SÍNDROME DEL TUNEL CARPIANO, una compresión del nervio mediano en la muñeca y en la mano."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Presenta abultamiento duro o hinchazón cerca de su muñeca o en las articulaciones de los dedos?",
+    "diagnostico": "Usted podría tener un GANGLIÓN, un tumor quístico no canceroso que es común."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Presenta enrojecimiento, hinchazón o dolor en la piel alrededor de una cortadura o herida?",
+    "diagnostico": "Todos estos son signos de INFECCIÓN en la mano, muñeca o brazo."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Tiene una o más articulaciones hinchadas y le duelen al tocarlas?",
+    "diagnostico": "Usted puede tener ARTRITIS REUMATOIDE, una afección inflamatoria de las articulaciones. Usted también puede tener GOTA, o una INFECCIÓN de la articulación o del hueso."
+  }
+  ]

@@ -1,0 +1,47 @@
+[
+  {
+      
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿Comenzó a tener dolor o hinchazón después de un golpe o lesión o torcedura de tobillo?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Presenta hinchazón y dolor intenso que es incapaz de caminar apoyando el tobillo apoyado?",
+    "diagnostico": "2Usted puede tener una FRACTURA o una TORCEDURA (ESGUINCE) de alto grado."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Presenta hinchazón y moretón, pero todavía es capaz de caminar apoyando el tobillo?",
+    "diagnostico": "Usted puede tener un TORCEDURA (ESGUINCE) DEL TOBILLO, o una FRACTURA del PERONÉ (FÍBULA)."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Tiene hinchazón, rigidez (especialmente en las mañanas) o dolor que aparece y desaparece en ambos tobillos?",
+    "diagnostico": "Usted podría tener ARTRITIS REUMATOIDE."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Presenta fiebre y más de una articulación hinchada y enrojecida?",
+    "diagnostico": "La fiebre que acompaña una articulación dolorosa e hinchada podría ser por causa de una ARTICULACIÓN INFECTADA. Más de una articulación afectada podría significar una FIEBRE REUMÁTICA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿El dolor comenzó de manera súbita (de repente), y que le duele con cualquier cosa que lo toque?",
+    "diagnostico": "Usted puede tener GOTA (una inflamación por causa de un nivel elevado de ácido úrico en la sangre)."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Presenta dolor con frecuencia, empeora al cambio de clima o está teniendo hinchazón, rigidez o dolor que empeora en la tarde o la noche?",
+    "diagnostico": "Estos síntomas podrían ser por causa de ARTROSIS, también conocida como ENFERMEDAD DEGENERATIVA DE LAS ARTICULACIONES, o por trauma previo en el tobillo."
+  }
+  ]

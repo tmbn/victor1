@@ -1,0 +1,64 @@
+[
+    
+    {
+      "Tipo": "Sistema",
+      "id": "1",
+      "Icon": "/assets/icon/PartesCuerpo/digestion.svg",
+      "title": "Diarrea"
+    },
+    {
+      "Tipo": "Pulmomes",
+      "id": "2",
+      "Icon": "/assets/icon/PartesCuerpo/pulmon.svg",
+      "title": "Dificultad respiratoria"
+    },
+    {
+      "Tipo": "Pulmones",
+      "id": "3",
+      "Icon": "/assets/icon/PartesCuerpo/pulmon.svg",
+      "title": "Dificultad para respirar en niños"
+    },
+    {
+      "Tipo": "Abdomen",
+      "id": "4",
+      "Icon": "/assets/icon/PartesCuerpo/abdomen.svg",
+      "title": "Dolor en el abdomen (menos de 3 días) "
+    },    
+    {
+      "Tipo": "Abdomen",
+      "id": "5",
+      "Icon": "/assets/icon/PartesCuerpo/abdomen.svg",
+      "title": "Dolor en el abdomen (más de 3 días) "
+    },
+    {
+      "Tipo": "Pecho",
+      "id": "6",
+      "Icon": "/assets/icon/PartesCuerpo/pecho.svg",
+      "title": "Dolor en el pecho en niños"
+    },
+    {
+      "Tipo": "Pecho",
+      "id": "7",
+      "Icon": "/assets/icon/PartesCuerpo/pecho.svg",
+      "title": "Dolor en el pecho (menos de 24 horas)"
+    },
+    {
+      "Tipo": "Pecho",
+      "id": "8",
+      "Icon": "/assets/icon/PartesCuerpo/pecho.svg",
+      "title": "Dolor en el pecho (más de 24 horas)"
+    },
+    {
+      "Tipo": "Espalda",
+      "id": "9",
+      "Icon": "/assets/icon/PartesCuerpo/espalda.svg",
+      "title": "Dolor en la parte baja de la espalda: (lumbar)"
+    },
+    {
+      "Tipo": "Cabeza",
+      "id": "10",
+      "Icon": "/assets/icon/PartesCuerpo/cabeza.svg",
+      "title": "Dolor de cabeza"
+    }
+   
+  ]

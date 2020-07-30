@@ -1,0 +1,65 @@
+[
+  {
+      
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿El dolor comenzó después de una caída o lesión?",
+    "diagnostico": "- "
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Tiene entumecimiento o dolor que le baja por la pierna?",
+    "diagnostico": "Usted puede tener un HERNIA DISCAL."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Tiene usted más de 60 años de edad, o tiene artritis y está presentado un dolor muy fuerte con cualquier movimiento?",
+    "diagnostico": "Usted puede tener una FRACTURA EN LA COLUMNA VERTEBRAL."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Tiene dolor al voltear el torso, agacharse o incluso al sentarse?",
+    "diagnostico": "Su dolor se puede deber a un ESPASMO MUSCULAR, a una DISTENSIÓN MUSCULAR o a una HERNIA DISCAL."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Presenta un dolor intermitente que pudo haber comenzado en la adolescencia?",
+    "diagnostico": "Usted puede tener ESPONDILOLISTESIS, cuando una vértebra se desliza sobre otra, o ESPONDILOSIS, un tipo de artritis."
+  },
+  {
+    "Si": 6,
+    "no": 6,
+    "Pregunta": "¿Tiene fiebre?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Presenta sangre en la orina o dolor a un solo lado de la espalda acompañado de ardor al orinar?",
+    "diagnostico": "Usted puede tener una infección en el riñón tal como PIELONEFRITIS. Usted también puede tener CÁLCULOS RENALES, los cuales pueden hacer que a usted le dé una infección en el riñón y causarle dolor, sangre y dolor al orinar sin que le dé fiebre."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Tiene la espalda rígida y adolorida en la mañana y presenta las demás articulaciones rígidas, adoloridas, hinchadas o enrojecidas?",
+    "diagnostico": "Usted podría tener ESPONDILITIS ANQUILOSANTE, una forma de artritis que afecta la columna. Otras formas de ARTRITIS también pueden causar dolor de espalda."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Está embarazada?",
+    "diagnostico": "El EMBARAZO hace que los ligamentos alrededor del útero se estiren y causa presión en la parte baja de la espalda."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿El dolor es únicamente en la parte baja de la espalda y o el dolor le baja por la pierna?",
+    "diagnostico": "Usted puede tener una HERNIA DISCAL o una ESTENOSIS LUMBAR."
+  }
+  ]

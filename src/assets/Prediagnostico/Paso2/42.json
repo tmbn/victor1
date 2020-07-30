@@ -1,0 +1,65 @@
+[
+  {
+      
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿Su bebé siempre parece estar con hambre?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Su bebé se alimenta con leche materna (pecho)?",
+    "diagnostico": "Si su bebé todavía parece quedar con hambre después de que usted lo lacta con frecuencia puede ser que el bebé no se está adhiriendo bien al pezón mientras come. Cuando el bebé no se adhiere al pezón correctamente el bebé puede no obtener suficiente leche durante cada sesión de lactancia. Algunas veces, el suministro de leche de la madre puede ser insuficiente para el bebé o el bebé puede tener la boca adolorida."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Su bebé se alimenta con biberón y tiene la boca adolorida?",
+    "diagnostico": "El agujero del chupón (chupo o chupete) puede estar TAPADO o DEMASIADO PEQUEÑO, o el bebé puede tener la boca adolorida."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿El bebé se duerme al poco tiempo de comenzar a alimentarse del pecho o del biberón?",
+    "diagnostico": "No es raro que los bebés recién nacidos se duerman mientras están alimentándose. Esto ocurre con menos frecuencia a medida que su bebé crece. Algunas veces, los bebés que no se adhieren correctamente al pezón se quedan dormidos mientras se lactan."
+  },    
+  {
+    "Si": 5,
+    "no": 5,
+    "Pregunta": "¿Su bebé llora después de alimentarse?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Su bebé está vomitando una gran cantidad de leche y los vómitos son frecuentes?",
+    "diagnostico": "Su niño puede tener ESTENOSIS PILÓRICA, una afección en la cual la parte inferior del estómago se agranda impidiendo que los alimentos pasen hacia los intestinos. Esto hace que el bebé vomite."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Su niño parece tener muchos gases y malestar estomacal?",
+    "diagnostico": "Estos síntomas pueden ser un signo de INTOLERANCIA A LA LACTOSA, es decir la incapacidad para digerir la lactosa. La lactosa es un azúcar que se encuentra en la leche y en otros productos lácteos."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Su bebé llora desconsoladamente después de las comidas?",
+    "diagnostico": "Esto pueden ser CÓLICOS."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Su niño demuestra muy poco interés por la comida o aumenta de peso lentamente?",
+    "diagnostico": "Esto se puede deber a un PROBLEMA DEL DESARROLLO."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿A su niño le da diarrea después de alimentarlo?",
+    "diagnostico": "Si usted le está dando al niño leche de fórmula o cereal, estos síntomas pueden representar una alergia o una intolerancia más fuerte a la leche de vaca (INTOLERANCIA A LA LACTOSA) o al trigo (ENFERMEDAD CELIACA)."
+  }
+  ]

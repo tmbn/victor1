@@ -1,0 +1,41 @@
+[
+  {
+      
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿Tiene fiebre?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Tiene dolor de cabeza y garganta sin congestión nasal?",
+    "diagnostico": "Usted podría tener FARINGITIS POR ESTREPTOCOCO, una infección causada por bacterias."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Presenta una combinación síntomas de repente, y tiene usted una combinación de síntomas que incluyen dolores musculares, escalofríos, dolor de garganta, nariz con mucosidad y tos?",
+    "diagnostico": "Usted podría tener GRIPE."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Presenta una tos persistente, productiva (con flema de color amarillento o verdusco) el pecho hace un silbido al respirar?",
+    "diagnostico": "Podría estarle dando una infección de las vías aéreas llamada BRONQUITIS AGUDA."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Presenta congestión nasal o comezón en la nariz y los ojos, acompañado de estornudos consecutivos (uno atrás de otro)?",
+    "diagnostico": "Usted podría tener una GASTROENTERITIS viral (conocida también como «gripe estomacal»)."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Presenta, dolor de garganta, dolor de cabeza, congestión nasal y estornudos?",
+    "diagnostico": "Usted podría tener ALERGIAS."
+  }
+  ]

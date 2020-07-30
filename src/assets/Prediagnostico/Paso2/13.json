@@ -1,0 +1,144 @@
+[
+  {
+      
+    "Si": "/diagnostico",
+    "no": 1,
+    "Pregunta": "¿Tiene su niño menos de dos meses y presenta fiebre mayor a 38°C?",
+    "diagnostico": "Esto puede ser un signo de una INFECCIÓN grave."
+    
+  },
+  {
+    "Si": 13,
+    "no": 2,
+    "Pregunta": "¿Tiene su niño más de dos meses y presenta fiebre alta (38,9°C) la cual no le baja con medicamento para la fiebre?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Presenta su niño fiebre baja menor a (38,3°C) congestión nasal y nariz con mucosidad, y también está cansado e irritable?",
+    "diagnostico": "Los síntomas de su niño pueden deberse a una simple INFECCIÓN VIRAL tal como GRIPE o RESFRIADO."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Su niño tiene fiebre baja de hasta 101°F (38,3°C) y una tos seca (tos perruna)?",
+    "diagnostico": "Estos pueden ser síntomas de CRUP."
+  },    
+  {
+    "Si": 5,
+    "no": 5,
+    "Pregunta": "¿El niño presenta fiebre baja (38,3°) acompañada de náuseas o vómito?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Su niño o niña también se queja de dolor abdominal?",
+    "diagnostico": "El dolor en la parte media del estómago que se desplaza hacia el área inferior derecha, y se acompaña de fiebre y vómitos puede ser una señal de APENDICITIS."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿El niño o niña tiene diarrea fiebre baja (38,3)?",
+    "diagnostico": "Su niño puede tener una infección intestinal llamada GASTROENTERITIS VIRAL."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿El niño o niña se está halando la oreja y está irritable?",
+    "diagnostico": "En los niños más pequeños EL DOLOR CUANDO SALEN LOS DIENTES puede irradiarse al oído."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿El niño o niña presenta una zona roja, hinchada o muy dolorosa?",
+    "diagnostico": "Su niño puede tener una infección de la piel que se conoce como una CELULITIS."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "¿El niño tiene fiebre baja (38,3°) acompañada de dolor de garganta?",
+    "diagnostico": "Su niño puede tener FARINGITIS POR ESTREPTOCOCO o una FARINGITIS distinta."
+  },
+  {
+    "Si": 11,
+    "no": 11,
+    "Pregunta": "¿Su niño presenta dificultad para respirar (falta de aire)?",
+    "diagnostico": "-" 
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 12,
+    "Pregunta": "¿Además, su niño presenta también un dolor de garganta fuerte, problemas para tragar y ocasionalmente se le han puesto la piel o los labios de color morado?",
+    "diagnostico": "Su niño podría tener EPIGLOTITIS, es decir una inflamación (hinchazón) de las vías aéreas."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 13,
+    "Pregunta": "¿Tiene su niño un poquito de fiebre con respiración acelerada y sonidos en el pecho como silbidos al respirar (sibilancias)?",
+    "diagnostico": "Estos pueden ser síntomas de BRONQUIOLITIS o de BRONQUITIS. Mientras que la bronquiolitis produce una tos seca, la tos que produce la bronquitis está acompañada de flema de color amarillo a verde."      
+  }
+  ,
+  {
+    "Si": "/diagnostico",
+    "no": 14,
+    "Pregunta": "¿Su niño presenta fiebre alta (39,4°) acompañada de escalofríos, dolor en el pecho, y presenta tos productiva(flema)?",
+    "diagnostico": "Su niño podría tener NEUMONÍA."      
+  }
+  ,
+  {
+    "Si": "/diagnostico",
+    "no": 15,
+    "Pregunta": "¿El niño se ve muy enfermo, se queja de dolor de cabeza, vomita y tiene el cuello rígido?",
+    "diagnostico": "Su niño podría tener MENINGITIS, una infección grave de las membranas y el líquido que rodean la médula espinal y el cerebro."      
+  }
+  ,
+  {
+    "Si": "/diagnostico",
+    "no": 16,
+    "Pregunta": "¿Presenta su niño vesículas (ampollas) costras distribuidas por toda la cara, pecho y abdomen?",
+    "diagnostico": "Su niño puede tener VARICELA, una enfermedad viral extremadamente contagiosa."      
+  }
+  ,
+  {
+    "Si": "/diagnostico",
+    "no": 17,
+    "Pregunta": "¿La enfermedad de su niño comenzó con fiebre alta y síntomas de resfriado luego de cuatro o cinco días apareció granitos en la cara?",
+    "diagnostico": "Su niño puede tener una INFECCIÓN POR PARVOVIRUS también conocida como ERITEMA INFECCIOSO (QUINTA ENFERMEDAD)."      
+  }
+  ,
+  {
+    "Si": "/diagnostico",
+    "no": 18,
+    "Pregunta": "¿La enfermedad del niño comenzó con dolor de garganta y fiebre, después de 3 o 5 días aparecieron granitos rojos pequeños distribuidos en cara y cuello?",
+    "diagnostico": "Granitos un poco más grandes pueden ser por SARAMPIÓN. Granitos pequeños como «papel de lija» pueden ser por FIEBRE ESCARLATA, una infección en la sangre producida por estreptococo. Otros síntomas de la fiebre escarlata pueden incluir vómito, dolor de estómago y dolores musculares."      
+  }
+  ,
+  {
+    "Si": "/diagnostico",
+    "no": 19,
+    "Pregunta": "¿Tiene su niño hinchazón debajo de la mandíbula a uno o ambos lados?",
+    "diagnostico": "La fiebre e hinchazón de su niño puede deberse a PAPERAS."      
+  }
+  ,
+  {
+    "Si": "/diagnostico",
+    "no": 20,
+    "Pregunta": "¿Su niño presenta congestión nasal?",
+    "diagnostico": "Su niño puede tener una simple INFECCIÓN VIRAL, incluso con la fiebre alta."      
+  } ,
+  {
+    "Si": "/diagnostico",
+    "no": 21,
+    "Pregunta": "¿Le duele o le arde cuando orina o dolor de espalda?",
+    "diagnostico": "Si niño podría tener PIELONEFRITIS, una infección del riñón."      
+  } ,
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Su niño tiene fiebre después de una vacuna que le pusieron hace poco?",
+    "diagnostico": "Esto puede ser una REACCIÓN A LA VACUNA."      
+  } 
+  ]

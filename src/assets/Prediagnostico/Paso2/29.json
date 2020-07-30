@@ -1,0 +1,47 @@
+[
+  {
+      
+    "Si": "/diagnostico",
+    "no": 1,
+    "Pregunta": "¿Tuvo un golpe o lesión que le saco un diente?",
+    "diagnostico": "Usted PERDIÓ UN DIENTE."
+    
+  },
+  {
+    "Si": 2,
+    "no": 2,
+    "Pregunta": "¿Presenta dolor que afecta a un sólo diente?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Presenta un diente roto o flojo?",
+    "diagnostico": "Su dolor se debe a un diente FRACTURADO, RAJADO o FLOJO."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Siente dolor cuando come o toma alimentos o líquidos fríos?",
+    "diagnostico": "Su dolor puede deberse a CARIES DENTAL."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Tiene enrojecido o hinchado alrededor de uno o más dientes, en las encías o en la cara?",
+    "diagnostico": "Usted podría tener un ABSCESO o una INFECCIÓN en un diente, en las encías o en otros tejidos."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Presenta áreas enrojecidas o hinchadas o se le está pelando la piel dentro de la boca?",
+    "diagnostico": "Usted tiene una infección tal como GINGIVITIS ULCERONECROSANTE AGUDA, GINGIVITIS O PERIODONTITIS. Una reacción rara a un medicamento llamada SÍNDROME DE STEVENS-JOHNSON también puede causar esto."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Presenta dolores de cabeza, cerca del oído o siente un sonido cuando mastica?",
+    "diagnostico": "Su dolor puede deberse al SÍNDROME DE DISFUNCIÓN DE LA ARTICULACIÓN TÉMPORO-MANDIBULAR (ATM), una afección que ocurre en la mandíbula (quijada)."
+  }
+  ]

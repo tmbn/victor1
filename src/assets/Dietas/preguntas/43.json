@@ -1,0 +1,41 @@
+[
+  {
+      
+    "Si": "/diagnostico",
+    "no": 1,
+    "Pregunta": "¿Tiene entre 10 y 25 años de edad y presenta hinchazón debajo o alrededor de uno o ambos pezones?",
+    "diagnostico": "Los cambios hormonales de la pubertad pueden causar GINECOMASTIA, una hinchazón benigna (no es cáncer) de la tetilla en el hombre."
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Está tomando cualquier hormona o medicamento nuevo y presenta hinchazón en uno o ambos pezones?",
+    "diagnostico": "Las hormonas y algunos tipos de medicamentos pueden causar GINECOMASTIA, una hinchazón benigna (no es cáncer) de las tetillas."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Tiene el pezón enrojecido, agrietado y le duele al tocarlo?",
+    "diagnostico": "Usted podría tener lo que se conoce como PEZÓN DE CORREDOR, una irritación que ocurre cuando la ropa roza la piel."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Presenta abultamiento doloroso blanco, doloroso en el pezón?",
+    "diagnostico": "Usted podría tener un quiste. Por lo general, los quistes son benignos, es decir no son cancerosos."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Tiene un abultamiento blando, no doloroso y que se puede mover fácilmente en uno de los dos pezones? ",
+    "diagnostico": "A pesar de que esto es más común en las mujeres, los FIBROADENOMAS son abultamientos benignos (no son cáncer) que también les pueden salir a los hombres."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Presenta un abultamiento duro y no doloroso debajo del pezón, acompañado de algún cambio en la piel, o salida de secreción por el pezón?",
+    "diagnostico": "Esto puede ser un signo de algo más grave como CÁNCER."
+  }
+  ]

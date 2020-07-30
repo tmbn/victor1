@@ -1,0 +1,71 @@
+[
+  {
+      
+    "Si": "/diagnostico",
+    "no": 1,
+    "Pregunta": "¿Tiene usted un moco vaginal que tiene color, consistencia y olor normal, pero cuya cantidad ha aumentado?",
+    "diagnostico": "Lo más probable es que esto sea por cambios hormonales normales o por el uso de contraceptivos orales."
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Presenta secreción de color blanquecino (como leche cortada) acompañada de enrojecimiento y consistencia como de requesón, o está teniendo enrojecimiento comezón (picor) e irritación?",
+    "diagnostico": "Usted podría tener una infección por levaduras llamada CANDIDIASIS. Las INFECCIONES POR HONGOS y la IRRITACIÓN por causa de los desodorantes íntimos femeninos también pueden causar una erupción cutánea."
+  },
+  {
+    "Si": 3,
+    "no": 3,
+    "Pregunta": "¿Presenta secreción vaginal de color amarillenta o verdosa y que presenta un mal olor?",
+    "diagnostico": "-"
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Presenta dolor en la pelvis o cuando tiene relaciones sexuales?",
+    "diagnostico": "Usted podría tener ENFERMEDAD INFLAMATORIA PÉLVICA, EIP (PID en inglés) una infección grave alrededor de las trompas de Falopio, de los ovarios y del útero (matriz), o una infección de transmisión sexual tal como la TRICOMONIASIS."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Presenta dolor al tocar la vulva o hinchazón de uno de los labios?",
+    "diagnostico": "Esta hinchazón podría ser por causa de una INFECCIÓN en una glándula mucosa o un ABSCESO o infección de los labios vaginales."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Presenta una úlcera (lesión abierta dolorosa) ya se en la parte externa(vulva) o dentro de la vagina?",
+    "diagnostico": "Las infecciones por HERPES y otras INFECCIONES DE TRANSMISIÓN SEXUAL con frecuencia comienzan con una úlcera."
+  },
+  {
+    "Si": 7,
+    "no": 7,
+    "Pregunta": "¿Presenta dolor mientras tiene relaciones sexuales?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Su vagina parece estar reseca, o siente comezón e irritación vaginal? ",
+    "diagnostico": "El dolor al tener relaciones sexuales puede ser un signo de INFECCIÓN o de una DEFICIENCIA HORMONAL."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Presenta ansiedad con respecto al tener relaciones sexuales?",
+    "diagnostico": "El dolor durante el coito (penetración del pene dentro de la vagina) puede deberse a VAGINISMO, es decir a un espasmo involuntario de los músculos alrededor de la vagina."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "¿Tiene dolor al orinar?",
+    "diagnostico": "Usted podría tener una infección de la vejiga llamada CISTITIS."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Presenta escape de orina al toser, reírse o levantar un objeto pesado?",
+    "diagnostico": "Esto puede ser un síntoma de INCONTINENCIA POR ESTRÉS, una afección común que ocurre después de dar a luz." 
+  }
+  ]

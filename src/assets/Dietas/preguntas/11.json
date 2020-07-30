@@ -1,0 +1,287 @@
+[
+  {
+      
+    "Si": "/diagnostico",
+    "no": 1,
+    "Pregunta": "¿Tiene la cara, el pecho o la espalda cubierta por puntos negros, espinillas o granitos rojos?",
+    "diagnostico": "Esto podría ser ACNÉ, un problema común de la piel que frecuentemente comienza en la adolescencia."
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Presenta un semblante ruborizado(rojo), posiblemente con enrojecimiento alrededor de las mejillas, mentón, frente o nariz?",
+    "diagnostico": "Esto puede ser ROSÁCEA, una enfermedad de la piel que afecta la cara."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Presenta en su piel un abultamiento rojo y doloroso o un grupo de ellos?",
+    "diagnostico": "Esto podría ser un FORÚNCULO. Una agrupación de forúnculos se conoce con el nombre de ÁNTRAX. Estos ocurren por infección debajo de la piel."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Presenta hinchazón y dolor alrededor de la base de un cabello (o vello) o de un poro?",
+    "diagnostico": "Esto podría ser FOLICULITIS, una infección de un folículo piloso."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Presenta un áreas roja, muy dolorosa o hinchada en la piel?",
+    "diagnostico": "Esto podría ser CELULITIS una infección de la piel."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Tiene granitos rojos, que le producen comezón en la piel y que están dispersos al azar en su piel?",
+    "diagnostico": "Esto podría ser CELULITIS una infección de la piel."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Presenta lesiones irregulares, levantadas o planas que salieron después de tomar un medicamento?",
+    "diagnostico": "Esto podría ser una REACCIÓN ALÉRGICA al medicamento."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "Se le han formado lesiones irregulares rojas y que causan comezón de manera súbita (de repente en la cara en el cuerpo)",
+    "diagnostico": "Esto podría ser URTICARIA, una reacción de la piel ante un alergeno, medicamento o infección. Estos también le puede salir a algunas personas que son muy nerviosas."
+  },
+  {
+    "Si": 9,
+    "no": 9,
+    "Pregunta": "¿Tiene un sarpullido (erupción cutánea leve) rojo, con comezón y apariencia brillante y que afecta las áreas alrededor de las cejas, nariz o en los bordes del cuero cabelludo?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "¿La persona es un adulto?",
+    "diagnostico": "Esto podría ser un signo de DERMATITIS SECORRÉICA, una afección en la cual las glándulas sebáceas están produciendo demasiada grasa."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 11,
+    "Pregunta": "¿La persona es un niño y la piel seca y descamada le cubre la cabeza?",
+    "diagnostico": "Esto podría ser COSTRA LÁCTEA, una forma de seborrea en los lactantes." 
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 12,
+    "Pregunta": "¿Tiene un sarpullido rojo y descamado que le comenzó después de haber entrado en contacto con ropa, joyas o algún perfume?",
+    "diagnostico": "Esto podría ser una DERMATITIS DE CONTACTO POR IRRITANTES. Esto ocurre por una reacción a detergentes, perfumes y otras substancias."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 13,
+    "Pregunta": "¿Tiene un sarpullido rojo, con comezón y se le están formando vesículas (granitos con agua)?",
+    "diagnostico": "Esto puede ser una DERMATITIS DE CONTACTO POR ALERGENOS causada por HIEDRA, roble o zumaque venenoso El aceite de estas plantas causa una REACCIÓN ALÉRGICA."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 14,
+    "Pregunta": "¿Tiene abultamientos rojos, hinchados y que le duelen al tocarlos en las axilas u otras áreas donde crece pelo (vello)?",
+    "diagnostico": "Esto podría ser una HIDRADENITIS SUPURANTE, una inflamación de las glándulas sudoríparas."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 15,
+    "Pregunta": "¿Presenta puntitos rojos y pequeños en la piel, o manchas más grandes como moretones que le salieron después de tomar un medicamento?",
+    "diagnostico": "Esto puede ser PÚRPURA DE HENOCH-SCHONLEIN (púrpura anafilactoide) una reacción alérgica grave ante un medicamento tal como un antibiótico y que puede causar sangrado."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 16,
+    "Pregunta": "¿Tiene un sarpullido que le comenzó como una sola mancha roja, descamada y que le producía un poco de escozor(picazón), y a los pocos días le salieron muchísimos parches pequeños del sarpullido, algunos rojos, otros de color beige en el pecho y en el abdomen?",
+    "diagnostico": "Esto puede ser PITIRIASIS ROSADA. No se sabe cuáles son las causas."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 17,
+    "Pregunta": "¿Tiene usted un sarpullido que le produce una comezón muy fuerte con granitos rojos y vesículas (granitos con agua), y le sale en los codos, rodillas, espalda o nalgas?",
+    "diagnostico": "Esto puede ser DERMATITIS HERPETIFORME, un sarpullido que se asocia con la sensibilidad al gluten, una proteína que se encuentra en los granos de cereal tales como la cebada y el trigo."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 18,
+    "Pregunta": "¿Tiene granos rojos y grandes en la piel que parecen formar moretones y que le duelen si se los toca?",
+    "diagnostico": "Esto podría ser ERITEMA NUDOSO, posiblemente por causa de una infección o una reacción a un medicamento."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 19,
+    "Pregunta": "¿Tiene usted un sarpullido blanco y descamado, sobre una piel roja e irritada posiblemente en los codos y en las rodillas?",
+    "diagnostico": "Esto puede ser PSORIASIS, una afección causada por la sobreproducción de células de la piel."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 20,
+    "Pregunta": "¿Presenta un sarpullido rojo elevada con lesiones centrales de úlceras o ronchas?",
+    "diagnostico": "Esto podría ser ERITEMA MULTIFORME, un sarpullido común que causan la faringitis por estreptococo, las infecciones virales y las reacciones a los medicamentos."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 21,
+    "Pregunta": "¿Presenta sarpullido rojo con lesiones elevadas sobre la frente y la cara y que luego se extienden al cuello, tronco y se acompaña de fiebre y dolor de garganta?",
+    "diagnostico": "Esto podría ser SARAMPIÓN, una enfermedad común que causa un virus y que afecta a los niños."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 22,
+    "Pregunta": "¿Presenta muchas ampollas (granitos con agua) costras en la cara, pecho y espalda, que se extienden hacia abajo, causan mucha picazón y se acompaña de fiebre, tos, dolores musculares, cansancio y dolor de garganta?",
+    "diagnostico": "Esto podría ser VARICELA, una enfermedad que afecta principalmente a los niños cuya causa es el virus de la varicela zóster."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 23,
+    "Pregunta": "¿Tiene ampollas rojas extremadamente dolorosas que pueden formar una costra?",
+    "diagnostico": "Esto podría ser ZÓSTER una infección viral de los nervios causada por el virus del herpes zóster."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 24,
+    "Pregunta": "¿La persona afectada es un niño o un adulto que tuvo fiebre y luego le salió un sarpullido de color rojo brillante que le cubrió las mejillas?",
+    "diagnostico": "Esto podría ser ERITEMA INFECCIOSO."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 25,
+    "Pregunta": "¿Se le están formando crecimientos blandos muy elevados que no le producen comezón ni le causan otros síntomas?",
+    "diagnostico": "Estos podrían ser VERRUGAS Las VERRUGAS PLANTARES salen en los pies. Las verrugas comúnmente salen en las manos. Las VERRUGAS GENITALES salen en el área genital y son un tipo de infección de transmisión sexual."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 26,
+    "Pregunta": "¿Tiene usted un área sin cabello en el cuero cabelludo o un «anillo· de piel enrojecida y con comezón en cualquier lugar de su cuerpo?",
+    "diagnostico": "Esto puede ser una TIÑA, una infección por hongos que es más común en los niños."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 27,
+    "Pregunta": "¿Tiene usted un sarpullido de color rojo que no le produce comezón y que le afecta las palmas de las manos o las plantas de los pies?",
+    "diagnostico": "Esto puede ser SÍFILIS, una infección de transmisión sexual."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 28,
+    "Pregunta": "¿Tiene usted un sarpullido rojo y que le produce comezón en el área de la ingle?",
+    "diagnostico": "Esto puede ser una infección por hongos llamada PRURITO DEL JOCKEY en el hombre, una INFECCIÓN POR LEVADURAS en la mujer, o SARPULLIDO ASOCIADO CON EL USO DE PAÑAL en los lactantes."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 29,
+    "Pregunta": "¿Tiene usted un área en la piel cubierta por parches (zonas de 2cm aprox) de color claro?",
+    "diagnostico": "Esto puede ser TIÑA VERSICOLOR, una decoloración causada por un hongo."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 30,
+    "Pregunta": "¿Se le han formado úlceras de color miel con costras cerca de la nariz o del labio?",
+    "diagnostico": "Esto podría ser IMPÉTIGO, una erupción cutánea por causa de una infección bacteriana tal como estreptococo o estafilococo."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 31,
+    "Pregunta": "¿Tiene lesiones que parecen de mordeduras y que le producen mucha comezón (picor o escozor) que pudieron haberle comenzado en las manos o entre los dedos?",
+    "diagnostico": "Esto es una señal de ESCABIOSIS (SARNA), una infección por ácaros."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 32,
+    "Pregunta": "¿Presenta un sarpullido fino en los brazos y piernas y se extiende a las palmas de las manos y las plantas de los pies, y ha tenido usted fiebre y dolor de cabeza?",
+    "diagnostico": "Esto podría ser FIEBRE MANCHADA DE LAS MONTAÑAS ROCOSAS, una enfermedad transmitida por garrapatas."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 33,
+    "Pregunta": "¿Presenta enrojecimiento en forma de «mariposa» en la frente y las mejillas acompañado de dolor en las articulaciones?",
+    "diagnostico": "Esto podría ser un síntoma de LUPUS ERITEMATOSO, una enfermedad grave parecida a la artritis."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 34,
+    "Pregunta": "¿Su piel y la parte de los blancos presentan un tinte?",
+    "diagnostico": "Estos podría ser ICTERICIA. Es común entre los recién nacidos y puede ser un signo de HEPATITIS, una enfermedad del hígado."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 35,
+    "Pregunta": "¿Tiene un área de color morado o verde en la piel que apareció luego de haberse golpeado en esa área?",
+    "diagnostico": "Esto probablemente es un MORETÓN."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 36,
+    "Pregunta": "¿Presenta lesiones elevadas descamadas de color rosado o miel en el cuero cabelludo o en las palmas de las manos?",
+    "diagnostico": "Esto puede ser QUERATOSIS ACTÍNICA, una afección de la piel que afecta especialmente a la gente de piel clara que se ha expuesto demasiado al sol."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 37,
+    "Pregunta": "¿Tiene usted una cicatriz que le ha crecido más de lo que esperaba?",
+    "diagnostico": "Esto puede ser un QUELOIDE, un sobre crecimiento de una cicatriz o una CICATRIZ HIPERTRÓFICA."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 38,
+    "Pregunta": "¿Presenta usted un crecimiento o tumoración de consistencia blanda ubicada en su espalda?",
+    "diagnostico": "Esto puede ser un LIPOMA, un tumor hecho de células de grasa."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 39,
+    "Pregunta": "¿La persona es un recién nacido y tiene la cara llena de granitos blancos?",
+    "diagnostico": "Esto puede ser MILIO o acné miliar (acné de los bebés)."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 40,
+    "Pregunta": "¿Presenta abultamientos pequeños, firmes y redondos con hoyuelos en el centro que pueden estar ubicados en la región genital?",
+    "diagnostico": "Esto pueden ser lesiones de MOLUSCO CONTAGIOSO que causa un virus."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 41,
+    "Pregunta": "¿Tiene usted un abultamiento con una cúpula blanca por debajo de la piel, probablemente en el cuero cabelludo, en la nuca o en la parte superior de la espalda?",
+    "diagnostico": "Esto puede ser un QUISTE SEBÁCEO o una glándula sebácea obstruida."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 42,
+    "Pregunta": "¿Tiene usted un crecimiento de la piel suave y carnoso en la cara, cuello, axilas o en la ingle?",
+    "diagnostico": "Esto puede ser una EXCRECENCIA CUTÁNEA."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 43,
+    "Pregunta": "¿Presenta usted un crecimiento de piel de color amarillento alrededor de sus ojos?",
+    "diagnostico": "Esto puede ser un XANTELASMA, es decir un depósito de grasa."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 44,
+    "Pregunta": "¿Tiene un abultamiento de color oscuro que pudo haber comenzado como un lunar o un barro, o tiene una mancha o lunar en cualquier lugar de la piel que ha cambiado de color, tamaño o forma, o que le duele o le produce comezón (picor o escozor)?",
+    "diagnostico": "Esto podría ser un MELANOMA, es decir un tipo de cáncer de la piel."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 45,
+    "Pregunta": "¿Tiene usted una masa carnosa que crece en o cerca de la nariz, ojos o en otras áreas que han sido expuestas al sol, tales como la espalda o el pecho?",
+    "diagnostico": "Esto podría ser un CARCINOMA BASOCELULAR, el tipo más común de cáncer en la piel."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 46,
+    "Pregunta": "¿Tiene un crecimiento inusual en la cara, labio o quijada que es de color rojo, descamado o con costra?",
+    "diagnostico": "Esto podría ser un CARCINOMA ESPINOSO, es decir un tipo de cáncer de la piel."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Tiene manchas oscuras o negras levantadas en cualquier lugar de la piel que siguen creciendo o que le han aparecido recientemente?",
+    "diagnostico": "Esto podría ser un SARCOMA DE KAPOSI, un cáncer grave de la piel que es más común entre la gente que tiene SIDA u otras inmunodeficiencias."      
+  }    
+  ]

@@ -1,0 +1,16 @@
+[
+  {
+      
+    "Si": "/diagnostico",
+    "no": 1,
+    "Pregunta": "¿La niña menor de dos años presenta sangrado que le sale de la apertura vaginal?",
+    "diagnostico": "Esto puede deberse a una INFECCIÓN en la vagina o en la vejiga. Rara vez un TUMOR o un DESGARRAMIENTO de los tejidos causará sangrado."
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Le cuesta trabajo distinguir el sexo de su lactante al nacer o poco tiempo después?",
+    "diagnostico": "GENITALES AMBIGUOS es un defecto congénito en el cual los genitales no están bien formados y son difíciles de distinguir."
+  }
+  ]

@@ -1,0 +1,47 @@
+[
+  {
+      
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿Ha estado involucrado en algún accidente automovilístico o una caída de gran altura?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Presenta dolor o entumecimiento que empieza en el hombro y puede bajar a los brazos y a las piernas?",
+    "diagnostico": "Esto puede ser un ESPASMO MUSCULAR o una LESIÓN DEL PLEXO BRAQUIAL («QUEMAZÓN»), pero también puede ser una lesión de la MÉDULA ESPINAL."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿El dolor ha aparecido lentamente en un plazo de unas cuantas horas después del accidente o caida? ",
+    "diagnostico": "Los DOLORES MUSCULARES y ESPASMOS con frecuencia aparecen de minutos a horas después de una lesión."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Presenta fiebre, rigidez en el cuello, vómito y la luz le molesta en los ojos?",
+    "diagnostico": "Sus síntomas pueden deberse a una simple enfermedad viral o a MENINGITIS, una infección más grave alrededor del cerebro."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Tiene un dolor pulsátil o entumecimiento en el cuello y que recorre la espalda?",
+    "diagnostico": "Usted puede tener una HERNIA DISCAL CERVICAL cuando una parte de la porción central de la médula espinal comprime un nervio. Esto también puede deberse a un ESPASMO MUSCULAR."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Presenta rigidez muscular o está teniendo dificultad para mover el cuello sin que esto le cause dolor?",
+    "diagnostico": "Lo más probable es que su dolor se deba a un ESPASMO MUSCULAR, pero también podría deberse a ARTRITIS REUMATOIDE."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Tuvo una lesión del tipo «latigazo cervical» (hiperextensión rápida del cuello), o presenta dolor y rigidez en el cuello manos, caderas, rodillas u otras articulaciones?",
+    "diagnostico": "Su dolor puede deberse a ARTRITIS CERVICAL DEGENERATIVA, un trastorno que afecta los huesos y el cartílago del cuello."
+  }
+  ]

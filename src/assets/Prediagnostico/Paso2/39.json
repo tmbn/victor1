@@ -1,0 +1,89 @@
+[
+  {
+      
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿Sus ciclos menstruales se han vuelto dolorosos?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Ha estado más fatigada o irritable, presenta hinchazón en las piernas o tiene dificultar para dormir o para concentrarse justo antes de sus períodos menstruales?",
+    "diagnostico": "Esto pueden ser CÓLICOS MENSTRUALES normales, o usted puede tener TRASTORNO DISFÓRICO PREMENSTRUAL (TDPM)."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Tiene fiebre o sus secreciones vaginales acompañadas de mal olor?",
+    "diagnostico": "Usted puede tener una infección grave alrededor de los ovarios, trompas de Falopio y útero (matriz) llamada ENFERMEDAD INFLAMATORIA PÉLVICA (EIP)."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Presenta dolor pélvico en distintas ocasiones como cuando tiene sexo o realiza la deposición?",
+    "diagnostico": "Usted puede tener ENDOMETRIOSIS, es decir un problema relacionado con el tejido que reviste el útero o QUISTES OVÁRICOS."
+  },    
+  {
+    "Si": 5,
+    "no": 5,
+    "Pregunta": "¿Sus períodos menstruales son más abundantes o este sangrado más tiempo de lo normal?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Tiene colocado un dispositivo intrauterino (DIU), como una te de cobre?",
+    "diagnostico": "El DIU puede haberle causado este cambio en el patrón de su sangrado."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Presenta una sensación constante de urgencia para orinar, o presenta una sensación de presión en la pelvis?",
+    "diagnostico": "Sus síntomas pueden deberse a FIBROMAS, es decir a tumores del útero que no son cancerosos."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Presenta dolores musculares, hinchazón o rigidez en las articulaciones, y debilidad en las piernas?",
+    "diagnostico": "Usted puede tener un problema relacionado con su GLÁNDULA TIROIDES tal como la ENFERMEDAD DE HASHIMOTO."
+  },
+  {
+    "Si": 9,
+    "no": 9,
+    "Pregunta": "¿Sus períodos menstruales son muy irregulares, poco frecuentes o ya no los tiene?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "¿Presenta dolor en los senos, sensación de hinchazón en el abdomen y náuseas?",
+    "diagnostico": "Usted puede tener un QUISTE OVÁRICO o puede estar en EMBARAZO."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 11,
+    "Pregunta": "¿Está tomando alguna medicación como parte de su planificación familiar?",
+    "diagnostico": "A algunas mujeres se les salta un período cuando están tomando PÍLDORAS DE CONTROL PRENATAL. Existe una pequeña probabilidad de que usted pueda estar en EMBARAZO." 
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 12,
+    "Pregunta": "¿Tiene 35 años o más?",
+    "diagnostico": "Los períodos que paran después de años de regularidad pueden ser por causa de una MENOPAUSIA normal o prematura. Tener períodos irregulares puede deberse a FIBROMAS, PROBLEMAS HORMONALES u otras afecciones médicas."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 13,
+    "Pregunta": "¿Se ha sentido con mucho cansancio y ha aumentado o bajado de peso sin un motivo aparente?",
+    "diagnostico": "Usted puede tener un PROBLEMA HORMONAL tal como un problema de la glándula tiroidea. Los períodos pueden interrumpirse o volverse irregulares si usted baja de peso demasiado rápido como puede ocurrir con la ANOREXIA NERVIOSA."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Está teniendo sangrando vaginales en ocasiones distintas a su periodo menstrual o después de haber pasado la menopausia?",
+    "diagnostico": "Su sangrado puede deberse a FIBROMAS, ENDOMETRIOSIS o a una afección grave tal como CÁNCER DEL ENDOMETRIO."      
+  }
+  ]

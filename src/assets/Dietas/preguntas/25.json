@@ -1,0 +1,41 @@
+[
+  {
+      
+    "Si": 2,
+    "no": 1,
+    "Pregunta": "¿Se cayó o de repente sintió dolor en cadera?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Los dedos de los pies en la pierna del lado que siente la molestia se ven orientados hacia fuera y además le duele estirar, levantar o pararse sobre su pierna afectada?",
+    "diagnostico": "Su dolor y deformidad puede deberse a una FRACTURA DE CADERA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Tiene rigidez, hinchazón, enrojecimiento o dolor en cualquier otra articulación?",
+    "diagnostico": "Su dolor de cadera puede deberse a ARTRITIS."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Ha sentido un «clic» en la cadera o dolor cuando realiza alguna actividad?",
+    "diagnostico": "Puede tener un PROBLEMA CONGÉNITO EN LA CADERA, una deformidad de la articulación de la cadera que comenzó antes del nacimiento."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Tiene dolor en la parte posterior de su cadera que comienza en la parte baja de la espalda y que se extiende hacia las nalgas o hacia la pierna?",
+    "diagnostico": "Sus síntomas pueden deberse a CIÁTICA, una compresión (pinchamiento o pinzamiento) de un nervio. Si el dolor se extiende hacia la pierna cerca de la rodilla o hacia el pie, esto podría deberse a una HERNIA DISCAL."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿La persona afectada es un niño o niña con dolor en las rodillas, caderas o en la ingle?",
+    "diagnostico": "Esto podría deberse a un número de trastornos incluso a DESLIZAMIENTO DE LA CABEZA FEMORAL."
+  }
+  ]

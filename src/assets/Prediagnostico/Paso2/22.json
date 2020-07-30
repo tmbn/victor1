@@ -1,0 +1,29 @@
+[
+  {
+      
+    "Si": "/diagnostico",
+    "no": 1,
+    "Pregunta": "¿Su niño presenta evacuaciones liquida (deposiciones o heces) con frecuencia?",
+    "diagnostico": "La causa de la DIARREA con frecuencia es una infección gastrointestinal, pero también puede ser por causa de otras enfermedades o de algo que su hijo come. La diarrea puede ser peligrosa para los niños si conduce a una deshidratación."
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Su niño tiene que hacer mucho esfuerzo para poder tener una evacuación intestinal, y sus evacuaciones son muy duras y secas?",
+    "diagnostico": "Las evacuaciones duras, a manera de bolitas pueden ser un signo de ESTREÑIMIENTO. Si su lactante o su niño continuamente está estreñido y rara vez tiene evacuaciones intestinales, esto puede ser un signo de ENFERMEDAD DE HIRSCHPRUNG, una afección que afecta la pared del intestino grueso."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Su niño tiene gases, hinchazón del estómago y diarrea, especialmente después de comer alimentos que contienen trigo o leche de vaca?",
+    "diagnostico": "La incapacidad para digerir el trigo (ENFERMEDAD CELIACA (CELIAQUÍA)) o la leche (INTOLERANCIA A LA LACTOSA) puede causar estos síntomas."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿El niño o niña parece tener dolor cuando realiza la deposición o usted sospecha que el niño se aguanta las ganas de orinar para evitar tener dolor?",
+    "diagnostico": "El dolor que causan las HEMORROIDES o una FISURA ANAL puede hacer que su niño se aguante las ganas de evacuar por varios días."
+  }
+  ]

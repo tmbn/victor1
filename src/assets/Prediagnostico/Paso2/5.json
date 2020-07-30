@@ -1,0 +1,95 @@
+[
+  {
+      
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿Su dolor empeora después de que ingiere abundante comida?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Siente presión en la parte superior del abdomen, que empeora cuando usted se inclina hacia adelante o cuando se acuesta en la noche?",
+    "diagnostico": "Su problema puede ser una HERNIA HIATAL."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿El dolor se alivia con antiácidos?",
+    "diagnostico": "Su dolor puede deberse a GASTRITIS, a una ÚLCERA o a ACIDEZ ESTOMACAL; todas estas afecciones producen irritación del estómago y el esófago."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿El dolor comienza en la parte superior media o superior derecha del abdomen y se desencadena cuando come comidas grasosas o fritas?",
+    "diagnostico": "Su dolor puede ser una señal de CÁLCULOS BILIARES, o de COLECISTITIS (una infección de la vesícula biliar)."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Su dolor empeora cuando está bajo mucha tensión emocional (estrés) o alterna entre evacuaciones intestinales (deposiciones) sueltas y duras?",
+    "diagnostico": "Su dolor se puede deber a SÍNDROME DE INTESTINO (COLON) IRRITABLE, también conocido como COLON ESPÁSTICO."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Presenta evacuaciones intestinales sueltas o diarrea, más de 5 ves al día con moco y sangre? ",
+    "diagnostico": "Usted puede tener ENFERMEDAD DE CROHN o COLITIS ULCEROSA, enfermedades inflamatorias del colon o del intestino grueso."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Tiene usted accesos recurrentes de dolor en el lado inferior izquierdo del abdomen acompañados de fiebre?",
+    "diagnostico": "Usted puede tener DIVERTICULITIS, una infección de pequeñas bolsas (sacos) en el colon."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Tiene sangre de color rojo intenso en sus evacuaciones intestinales (heces) o sobre estas?",
+    "diagnostico": "Las evacuaciones intestinales con sangre de color rojo intenso pueden ser por causa del sangrado de una HEMORROIDE o de un PÓLIPO, pero también pueden ser un signo de un problema más grave tal como CÁNCER del colon."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Han pasado unos cuantos días o más desde la última vez que usted hizo del estómago (defecó o hizo popó) y usted tiene que hacer demasiado esfuerzo para poder tener una evacuación intestinal (deposiciones)?",
+    "diagnostico": "Su malestar probablemente se debe a ESTREÑIMIENTO."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "¿Ha disminuido su apetito y ha bajado de peso más de 4 kilos en los últimos 3 meses?",
+    "diagnostico": "La pérdida de peso no intencional (sin proponérselo) puede ser un signo de una afección grave tal como un CÁNCER."
+  },
+  {
+    "Si": "/diagnostico",
+    "no":11,
+    "Pregunta": "¿Sus ojos o piel tienen un tinte amarillento o su orina es de color oscuro?",
+    "diagnostico": "Usted podría tener HEPATITIS VIRAL una infección grave del hígado." 
+  },
+  {
+    "Si": "/diagnostico",
+    "no":12,
+    "Pregunta": "¿Ha tenido fiebre, dolor de garganta o se ha sentido supremamente cansado?",
+    "diagnostico": "Usted puede tener MONONUCLEOSIS («mono») o una INFECCIÓN VIRAL parecida."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 13,
+    "Pregunta": "¿Tiene hinchazón abdominal y malestar que empeora cuando toma leche o productos que contienen trigo?",
+    "diagnostico": "Su problema puede ser una MALABSORCIÓN, es decir una incapacidad para absorber ciertos alimentos, o INTOLERANCIA A LA LACTOSA o INTOLERANCIA AL TRIGO (ENFERMEDAD CELIACA)."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 14,
+    "Pregunta": "¿Sus evacuaciones intestinales son amarillas y de apariencia grasosa y flotan en el inodoro (excusado)?",
+    "diagnostico": "Su páncreas puede no estar produciendo suficientes enzimas para una digestión adecuada. Esta afección se conoce como INSUFICIENCIA PANCREÁTICA."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Tiene demasiados gases de muy mal olor y ocasionalmente tiene evacuaciones intestinales (heces) sueltas?",
+    "diagnostico": "Usted podría tener una infección parasitaria llamada GIARDIASIS. Otras INFECCIONES INTESTINALES o MALABSORCIÓN también pueden causar estos síntomas."      
+  }
+  ]

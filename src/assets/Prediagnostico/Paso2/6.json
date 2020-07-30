@@ -1,0 +1,41 @@
+[
+  {
+      
+    "Si": "/diagnostico",
+    "no": 1,
+    "Pregunta": "¿Su niño tiene fiebre, tos productiva y tiene dificultad para respirar?",
+    "diagnostico": "Estos son los síntomas que causa la BRONQUITITS. La fiebre alta acompañada de tos y dificultad para respirar podrían ser un signo de NEUMONÍA."
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Su niño presenta tos seca cuando respira parece que silbara(sibilancia) y siente que le falta el aire(dificultad respiratoria)?",
+    "diagnostico": "Estos pueden ser síntomas de BRONQUIOLITIS. El ASMA también puede hacer que cuando el niño respira el pecho le suene como si silbara (sibilancias), causar tos y dificultad para respirar."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Su niño presenta tos seca y  dolor en el pecho cuando respira profundamente?",
+    "diagnostico": "Estos síntomas pueden ser por causa de PLEURESÍA, una inflamación del tejido que reviste el pulmón."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "El niño o niña presenta un dolor súbito(de repente) a un lado del pecho con sensación de «falta de aire» (dificultad respiratoria)?",
+    "diagnostico": "En casos raros, el aire se escapará de un pulmón para llenar la cavidad torácica (del pecho). Esto hace que respirar sea difícil. Esta afección se conoce con el nombre de NEUMOTÓRAX."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Su niño tiene fiebre alta, dolor de garganta muy fuerte y dificultad para respirar o tragar?",
+    "diagnostico": "Estos pueden ser los signos de una afección grave llamada EPIGLOTITIS."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Su niño tiene dolor y sensibilidad al tocar en la parte delantera del pecho, a lo largo del borde del esternón y las costillas, y el dolor empeora cuando el niño tose o respira profundo?",
+    "diagnostico": "Esto puede ser por causa de COSTOCONDRITIS, es decir de una inflamación en las articulaciones del pecho."
+  }
+  ]

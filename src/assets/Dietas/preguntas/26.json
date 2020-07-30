@@ -1,0 +1,59 @@
+[
+  {
+      
+    "Si": 2,
+    "no": 1,
+    "Pregunta": "¿Presenta fiebre?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Presenta malestar general (dolor en todo el cuerpo), dolor de cabeza, tos o congestión nasal?",
+    "diagnostico": "Usted probablemente tiene un RESFRIADO O GRIPE."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Está vomitando o tiene náuseas o diarrea?",
+    "diagnostico": "Usted podría tener una GASTROENTERITIS viral, también conocida como ¨GRIPE ESTOMACAL¨"
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Cuándo mira la parte posterior de la garganta usted ve que sus amígdalas están cubiertas de placas blanquecinas?",
+    "diagnostico": "Usted puede tener una FARINGITIS POR ESTREPTOCOCO o una MONONUCLEOSIS."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Tiene usted una tos persistente o productiva (flema) o está tosiendo flema?",
+    "diagnostico": "Estos síntomas pueden deberse a BRONQUITIS, NEUMONÍA o DESCARGA NASAL POSTERIOR."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿La persona es un niño con una tos persistente que suena como el ladrido de un perro?",
+    "diagnostico": "Una tos seca que suena como un ladrido con frecuencia se debe al CRUP, o menos frecuentemente a EPIGLOTITIS."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Presenta lesiones pequeñas en la lengua, en los labios o en la parte interna de las mejillas?",
+    "diagnostico": "Estas ulceraciones se conocen con el nombre de ÚLCERAS AFTOSAS. Usualmente ocurren por si solas o al tiempo con otras enfermedades virales."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿La piel dentro de su boca se está pelando y tiene la lengua y las encías hinchadas y enrojecidas?",
+    "diagnostico": "Esto puede deberse a GINGITIVITIS ÚLCERONECROSANTE AGUDA, una infección de las encías, dientes y otros tejidos. Una reacción rara a un medicamento llamada SÍNDROME DE STEVENS-JOHNSON también puede causar esto."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Presenta placas blanquecinas y enrojecimiento en la lengua o en la parte posterior de su boca?",
+    "diagnostico": "Usted podría tener MUGUET, una infección por levaduras en la boca."
+  }
+  ]

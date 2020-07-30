@@ -1,0 +1,77 @@
+[
+  {
+      
+    "Si": 11,
+    "no": 1,
+    "Pregunta": "¿La tos le comenzó hace pocos minutos?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Siente mucha dificultad para respirar y está expectorando una secreción espumosa y de color rosado?",
+    "diagnostico": "Sus síntomas pueden ser por causa de una afección llamada EDEMA PULMONAR que se caracteriza por la presencia de líquido en los pulmones."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Presenta tos productiva con flema de color blanquecino o amarillo?",
+    "diagnostico": "Usted puede tener una enfermedad viral tal como un RESFRIADO o GRIPE"
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Presenta tos productiva con flema de color amarillenta o verdusca?",
+    "diagnostico": "Usted puede tener una infección de las vías aéreas tal como BRONQUITIS CRÓNICA. Si usted tiene fiebre con escalofríos que la hacen temblar y está muy enferma, usted podría tener una infección más grave tal como NEUMONÍA."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿La tos se acompaña de «sensación de falta de aire» y un sonido como un silbido que le sale del pecho al respirar (sibilancias)?",
+    "diagnostico": "Estos síntomas pueden ser un signo de ASMA, o sea de una constricción de las vía aéreas."
+  },
+  {
+    "Si": 6,
+    "no": 6,
+    "Pregunta": "¿Tiene las piernas hinchadas o sensación de falta de aire, cuando está activo o después de haber estado acostado?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Tiene alguna enfermedad del corazón?",
+    "diagnostico": "La tos persistente puede deberse a INSUFICIENCIA CARDIACA CONGESTIVA, especialmente cuando hay acumulación de líquidos en los pulmones."
+  },
+  {
+    "Si": 8,
+    "no": 8,
+    "Pregunta": "¿Hace poco comenzó a toser flema con sangre?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Recientemente ha comenzado a tener en el pecho, palpitaciones, hinchazón en las piernas y sensación de falta de aire?",
+    "diagnostico": "Un moco sanguinolento acompañado de estos síntomas podría significar que un coágulo de sangre se le ha ido desde las piernas hasta los pulmones. Esto se conoce con el nombre de EMBOLISMO PULMONAR."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "¿Presenta fiebre, escalofrío, sudores y dolor en el pecho?",
+    "diagnostico": "Estos síntomas pueden ser por causa de TUBERCULOSIS u otro tipo de infección."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 11,
+    "Pregunta": "¿Ha bajado de peso de manera considerable sin una razón aparente?",
+    "diagnostico": "Esto puede ser un signo de una enfermedad grave tal como CÁNCER DE PULMÓN. Otros signos de cáncer de pulmón pueden incluir una tos que produce esputo sanguinolento, «sensación de falta de aire» (dificultad respiratoria) y hacer sonidos como silbidos con el pecho (sibilancias) al respirar." 
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Inhalo polvo, partículas del ambiente?",
+    "diagnostico": "La IRRITACIÓN DE LAS VÍAS AÉREAS causará tos como un intento para eliminar el objeto o la irritación fuera de la vía aérea."
+  }
+  ]

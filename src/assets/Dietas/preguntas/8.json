@@ -1,0 +1,65 @@
+[
+  {
+      
+    "Si": 6,
+    "no": 1,
+    "Pregunta": "¿Tiene dificultad respiratoria sensación de falta de aire)?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Le duele el pecho a lo largo de los bordes del esternón, y el dolor empeora al toser o cuando respira profundamente?",
+    "diagnostico": "Usted podría tener COSTOCONDRITIS una inflamación de las articulaciones en el pecho."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿La actividad física, la tensión emocional o los extremos de temperaturas causan una sensación de presión debajo del esternón?",
+    "diagnostico": "Su dolor puede deberse a un problema del corazón llamado ANGINA (angina de pecho) estable."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Tiene usted una sensación de llenura y dolor debajo del esternón o en el lado superior derecho del abdomen después de comer una comida grasosa?",
+    "diagnostico": "El dolor que usted tiene puede deberse a un problema de la VESÍCULA BILIAR."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Presenta sensación de ardor en el pecho que empeora cuando ingiere alimentos?",
+    "diagnostico": "Usted podría tener una ÚLCERA, IRRITACIÓN DEL ESÓFAGO o un ESPASMO de los músculos del esófago. Si el malestar es en la parte superior del estómago y empeora cuando usted se inclina hacia adelante o cuando usted se acuesta, usted podría tener una HERNIA HIATAL. Este es un problema común en el cual la parte superior del estómago es empujada dentro de la parte inferior del pecho después de comer."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Presenta dolor y comezón (picazón) debajo del pecho?",
+    "diagnostico": "Su dolor puede deberse a una NEURALGIA POSHERPÉTICA, una afección que puede quedar (secuela) después de que pasa la infección del zóster."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Presenta episodios frecuentes en que el pecho suena con un silbido (sibilancias) y una tos que no se le va?",
+    "diagnostico": "Su malestar en el pecho y sensación de «falta de aire» (dificultad para respirar) puede ser por causa de ASMA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Presenta una sensación de presión en el pecho y una tos continua que produce una gran cantidad de flema?",
+    "diagnostico": "Estos síntomas pueden ser por causa de una BRONQUITIS CRÓNICA, especialmente si usted fuma."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Presenta una tos leve y continua, su dificultad para respirar ha ido aumentando lentamente con los años, y ha sido un fumador o ha estado expuesto al polvo y a vapores en su lugar de trabajo?",
+    "diagnostico": "ENFISEMA puede ser la causa de su problema."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Presenta fiebre, escalofríos o sudores nocturnos y o está tosiendo flema con sangre?",
+    "diagnostico": "Usted podría tener una enfermedad infecciosa tal como TUBERCULOSIS o una INFECCIÓN POR HONGOS. Un problema más grave tal como CÁNCER DE PULMÓN también puede ser la causa."
+  }
+  ]

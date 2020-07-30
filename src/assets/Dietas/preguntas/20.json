@@ -1,0 +1,41 @@
+[
+  {
+      
+    "Si": "/diagnostico",
+    "no": 1,
+    "Pregunta": "¿Ha estado expuesto a ruidos intensos o ha estado escuchando música por largos periodos de tiempo?",
+    "diagnostico": "Los ruidos fuertes que resultan de ciertos tipos de trabajo o entretenimiento pueden dañar el oído interno. Este tipo de pérdida auditiva se llama OCUPACIONAL. "
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Ha presentado pérdida parcial de la audición luego de dolor de oído o sensación de hinchazón en la oreja?",
+    "diagnostico": "El bloqueo de la cera del oído, llamado CERUMINOSIS, puede causar pérdida auditiva en uno o ambos oídos."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Ha presentado pérdida gradual de la audición de un solo lado?",
+    "diagnostico": "Es posible que tenga PRESBYCUSIS, pérdida de audición relacionada con el envejecimiento y otros factores."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Ha presentado mareo, nausea o vomito acompañado de molestias o perdida de la audición?",
+    "diagnostico": "Es posible que tenga un NEUROMA ACÚSTICO, un tumor no canceroso en el nervio auditivo."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Ha empezado a tomar alguna medicación nueva?",
+    "diagnostico": "Es posible que tenga ENFERMEDAD DE MENIERE o un TUMOR más grave en el nervio auditivo."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Ha presentado dolor, fiebre, síntoma de resfriado acompañado de perdida en la audición? ",
+    "diagnostico": "Ciertos medicamentos pueden causar problemas de audición, como zumbidos en los oídos."
+  }
+  ]

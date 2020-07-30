@@ -1,0 +1,77 @@
+[
+  {
+      
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿Se golpeó, lesionó o cayó sobre la parte superior de su brazo u hombro recientemente?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Sintió que su hombro se salió de su lugar o que volvió a colocarse en su lugar?",
+    "diagnostico": "Es probable que su HOMBRO puede estar o que ha estado DISLOCADO."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Tiene la parte superior de su brazo u hombro hinchada o deformada?",
+    "diagnostico": "Su HÚMERO (el hueso de la parte superior del brazo) puede estar FRACTURADO."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Le duele la clavícula al tocarla o tiene un abultamiento en la misma?",
+    "diagnostico": "Usted puede tener la CLAVÍCULA FRACTURADA."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Presenta dolor al tocar la clavícula en el extremo en el que se une con su hombro, y el levantar brazo lesionado calma el dolor?",
+    "diagnostico": "Usted puede tener su HOMBRO SEPARADO."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Presenta dolor en el hombro al hacer un movimiento de lanzamiento, parece como si tuviera debilidad en el hombre?",
+    "diagnostico": "Usted podría tener el MANGUITO ROTADOR ROTO o una INESTABILIDAD EN EL HOMBRO."
+  },
+  {
+    "Si": 7,
+    "no": 7,
+    "Pregunta": "¿Presenta fiebre?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Alrededor de su hombro tiene dolor, hinchazón y enrojecimiento?",
+    "diagnostico": "Usted puede tener INFLAMACIÓN dentro o alrededor de una articulación lo cual se conoce como BURSITIS, o una INFECCIÓN grave en el hueso, la articulación o la piel."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿En el último mes usted ha tenido dolor de garganta o una infección en la piel?",
+    "diagnostico": "Estos síntomas pueden deberse a una reacción ante una infección por estreptococo llamada FIEBRE REUMÁTICA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "¿Presenta enrojecimiento o hinchazón en más de una articulación, incluyendo su hombro?",
+    "diagnostico": "Usted podría tener ARTRITIS REUMATOIDE, una enfermedad que afecta al sistema inmunitario, o GOTA, una inflamación de la articulación del hombro."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 11,
+    "Pregunta": "¿Siente dolor al mover el hombro, pero no tiene hinchazón o enrojecimiento?",
+    "diagnostico": "Usted podría tener BURSITIS o SÍNDROME DEL MANGUITO ROTADOR." 
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Presenta rigidez que ha ido progresando hasta ser incapaz de mover el hombro?",
+    "diagnostico": "Usted podría tener CAPSULITIS ADHESIVA, lo cual también se conoce como «HOMBRO CONGELADO»"
+  }
+  ]

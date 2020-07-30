@@ -1,0 +1,94 @@
+[
+  
+  {
+    "Si": 4,
+    "no": 1,
+    "Pregunta": "¿Tiene dolor en la boca?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Presenta lesiones indoloras que pueden tener una capa dura blanquecina o gris en la lengua o en la parte interna de la mejilla?",
+    "diagnostico": "Esta lesión puede ser una LEUCOPLAQUIA (leucoplasia) precancerosa, más común entre las personas que usan productos derivados del tabaco."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Tiene una lesión, crecimiento o bulto indoloro, en el labio o en la cara?",
+    "diagnostico": "Esto puede ser CARCINOMA ESPINOCELULAR."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Presenta ampollas no dolorosas en la parte interna de los labios, encías paladas o debajo de la lengua? ",
+    "diagnostico": "Esto puede ser un MUCOCELE, un quiste inocuo que puede originarse por chupar tejido de la boca entre los dientes."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Presenta dolor o hinchazón por debajo de la lengua o en la mejilla, especialmente mientras come o toma algo? ",
+    "diagnostico": "Esto puede deberse a un bloqueo de un conducto salival cuyo origen posiblemente es un CÁLCULO (SIALOLITO) DEL CONDUCTO SALIVAL."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Presenta lesiones abiertas, pequeñas y dolorosas de color blanco o amarillento, y con un borde rojo en la parte interna de los labios, mejilla, encías o lengua?",
+    "diagnostico": "Estas pueden ser AFTAS DOLOROSAS. Pueden ser por causa de infecciones virales."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Presenta una lesión roja, con costra muy dolorosa en el borde externo de los labios?",
+    "diagnostico": "Esto puede ser HERPES LABIAL, causado por un tipo de VIRUS DEL HERPES."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Tiene la lengua o los labios rojos e hinchados?",
+    "diagnostico": "Esto puede ser una REACCIÓN ALÉRGICA a un medicamento o a otro ALERGENO."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Usa usted una prótesis (dentadura postiza) que parece rozarle las encías e irritarle y lastimarle la boca la boca?",
+    "diagnostico": "Las DENTADURAS POSTIZAS que no tienen un tamaño adecuado pueden causar dolor en la boca."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "¿Tiene encías enrojecidas e hinchadas que pueden sangrar cuando se cepilla los dientes o usa pasta la seda dental?",
+    "diagnostico": "Usted puede tener ENFERMEDAD PERIODONTAL tal como GINGIVITIS o PERIODONTITIS, o una CARIES, cuya causa usual es una mala HIGIENE DENTAL." 
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 11,
+    "Pregunta": "¿Tiene usted abultamientos pequeños y dolorosos en la lengua?",
+    "diagnostico": "Estos abultamientos probablemente son PAPILAS INFLAMADAS (el lugar donde se encuentran las papilas gustativas) debido a una lesión por quemadura con una comida o líquido caliente, o por una mordedura que usted mismo se hizo."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 12,
+    "Pregunta": "¿Presenta placas cremosas de color blanco sobre la lengua en la parte interna de la mejilla que duele si las intentas retirar?",
+    "diagnostico": "Esto puede deberse a CANDIDIASIS(MUGUET) por causa de un hongo que está creciendo fuera de control."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 13,
+    "Pregunta": "¿Presenta abultamientos blanquecinos, lesiones abiertas y rojas en la parte interna de sus mejillas o a los lados de la lengua?",
+    "diagnostico": "Esto puede deberse a CANDIDIASIS(MUGUET) por causa de un hongo que está creciendo fuera de control."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 14,
+    "Pregunta": "¿Presenta usted una sensación de ardor en la boca?",
+    "diagnostico": "Usted puede tener el SÍNDROME DE BOCA ARDIENTE ."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Presenta cortaduras a las comisuras labiales?",
+    "diagnostico": "Estas úlceras dolorosas pueden deberse a una deficiencia vitamínica o a tener los labios resecos."      
+  }
+  ]

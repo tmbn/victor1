@@ -1,0 +1,86 @@
+<ion-header>
+  <ion-toolbar class="ion-no-border">
+    <ion-buttons slot="start">
+      <ion-button  mode="md" (click)="OpenMenu()" >
+        <ion-icon name="list"></ion-icon>
+      </ion-button>
+    </ion-buttons>    
+    <ion-title color="primary" class="ion-text-center">Inicio</ion-title>
+    <ion-buttons slot="end">
+      <ion-button  mode="md" (click)="OpenMenu()" >
+        <ion-icon style="font-size: 30px;" src="/assets/icon/svg/panic-button.svg"></ion-icon>
+      </ion-button>
+    </ion-buttons>   
+  </ion-toolbar>
+</ion-header>
+<ion-content style="--background: linear-gradient(to bottom,rgb(255, 255, 255),#5098f5);">
+  <ion-card mode="ios"  >
+    <img src="/assets/icon/HomeIcon.png">
+  </ion-card>
+  <div style="margin-top: -15%;">
+    <ion-slides pager="true" style="padding-top: 30px">
+      <ion-slide>
+        <div>
+          <ion-row>
+            <ion-col size="6">
+              <ion-card routerLink="/prediagnostico" mode="ios" class="ion-padding" style="height: 80%;">          
+                <img src="/assets/icon/svg/Diag.png">
+                <ion-card-title   style="font-size: 17px; text-align: center; color: rgb(49, 115, 238);">Prediagnóstico informativo</ion-card-title>
+              </ion-card>
+            </ion-col>
+            <ion-col size="6">
+              <ion-card routerLink="/dieta" mode="ios" class="ion-padding"  style="height: 80%;">          
+                <img src="/assets/icon/svg/apple.svg">
+                <ion-card-title style="font-size: 17px; text-align: center; color: rgb(49, 115, 238);">Dieta y Nutrición</ion-card-title>
+              </ion-card>
+            </ion-col>      
+          </ion-row>
+          <ion-row style="margin-top: -12%;">           
+            <ion-col mode="ios" size="6">
+              <ion-card routerLink="/tu-doctor" class="ion-padding"  style="height: 80%;">          
+                <img src="/assets/icon/svg/doctor.svg">
+                <ion-card-title style="font-size: 17px; text-align: center;color: rgb(49, 115, 238);">Tú Doctor</ion-card-title>
+              </ion-card>
+            </ion-col>
+            <ion-col mode="ios" size="6">
+              <ion-card class="ion-padding"  style="height: 80%;">          
+                <img src="/assets/icon/svg/gym.svg">
+                <ion-card-title style="font-size: 17px; text-align: center; color: rgb(49, 115, 238);">Entrenamiento</ion-card-title>
+              </ion-card>
+            </ion-col>
+          </ion-row>   
+        </div>
+       
+      </ion-slide>
+      <ion-slide>
+        <div>
+          <ion-row>
+            <ion-col size="6">
+              <ion-card mode="ios" class="ion-padding"  style="height: 80%;">          
+                <img src="/assets/icon/svg/BuscarHospi.png">
+                <ion-card-title  style="font-size: 17px; text-align: center; color: rgb(49, 115, 238);">Buscar farmacias y hospitales</ion-card-title>
+              </ion-card>
+            </ion-col>
+            <ion-col size="6">
+              <ion-card routerLink="/dieta" mode="ios" class="ion-padding"  style="height: 80%;">          
+                <img src="/assets/icon/svg/Enfermero.svg">
+                <ion-card-title style="font-size: 17px; text-align: center; color: rgb(49, 115, 238);">Busca tú enfermero</ion-card-title>
+              </ion-card>
+            </ion-col>      
+          </ion-row>
+          <ion-row style="margin-top: -12%;">
+            
+            <ion-col mode="ios" size="6">
+              <ion-card class="ion-padding"  style="height: 80%;">          
+                <img src="/assets/icon/svg/tips.svg">
+                <ion-card-title style="font-size: 17px; text-align: center;color: rgb(49, 115, 238);">Consejos</ion-card-title>
+              </ion-card>
+            </ion-col>
+          </ion-row>   
+        </div>
+       
+      </ion-slide>
+    </ion-slides>
+    
+  </div>
+</ion-content>

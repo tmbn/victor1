@@ -1,0 +1,58 @@
+
+
+<ion-content style="--background: linear-gradient(to top, #e4e5e6, #00b3e6);">
+ 
+  
+    <div id="map"></div>
+    <div style="margin: 8%;  margin-top: 3%; position: relative;">
+      <div style="margin-top: -80%; position: absolute; margin-left: -8%;">
+        
+         
+            <ion-icon color="primary" style="font-size: 35px;" routerLink="/home" name="caret-back-outline"></ion-icon>
+        
+        
+      </div>
+    
+      <div style="background-color: #5098f5; border-radius: 5mm; padding: 1%;" >
+        <div style="color: rgb(255, 255, 255);" class="ion-text-center">
+          <p style="font-size: 23px;" >Encuentra el doctor que necesitas</p>
+        </div>
+      </div>
+    </div>
+    <ion-card mode="ios" style="height: 40%; border-radius: 5mm;background-color: #ececec7a; margin: 3%; margin-top: -1%;">
+     
+        
+        <div style="background: rgb(255, 255, 255); border-radius: 10mm; margin-top: 10%; margin: 5%; padding: 2%;" class="ion-text-center">
+          <ion-input style="margin-left: 3%;" placeholder="Tipo de Doctor"></ion-input> 
+        </div>
+        <div style="background: rgb(255, 255, 255); border-radius: 10mm; margin-top: 10%; margin: 5%; padding: 2%;" class="ion-text-center">
+          <ion-input style="margin-left: 3%;" placeholder="Hospitales y clínicas afiliados"></ion-input> 
+        </div>
+        <div style="background: rgb(255, 255, 255); border-radius: 10mm; margin-top: 10%; margin: 5%; padding: 2%;" class="ion-text-center">
+          <ion-input style="margin-left: 3%;" placeholder="Ubicación actual"></ion-input> 
+        </div>
+        <div routerLink="/lista-doctores" style="background: #5098f5; color: #ffffff; border-radius: 3mm; margin-top: 10%; margin: 5%; padding: 2%;" class="ion-text-center">
+          <ion-label style="margin-left: 3%; font-size: 20px;"> Plantilla de doctores </ion-label> 
+        </div>  
+    </ion-card>
+    <div style="background: rgb(255, 255, 255); border-radius: 10mm; margin-top: 10%; margin: 5%; padding: 2%;" >    
+    
+      <ion-input (ionChange)="buscar( $event )" style="margin-left: 3%;" placeholder="Busca tu doctor">   <ion-icon name="search"></ion-icon></ion-input> 
+      <div *ngIf="lista">
+        <ion-list>
+          <ion-item routerLink="/perfil-doctor">
+            Doctor 1
+          </ion-item>
+          <ion-item routerLink="/perfil-doctor">
+            Doctor 2
+          </ion-item>
+        </ion-list>
+      </div>
+      
+    </div>
+  
+  
+    
+  
+  
+</ion-content>

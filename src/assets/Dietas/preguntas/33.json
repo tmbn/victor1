@@ -1,0 +1,35 @@
+[
+  {
+      
+    "Si": "/diagnostico",
+    "no": 1,
+    "Pregunta": "¿Al niño parece faltarle uno o ambos testículos?",
+    "diagnostico": "Puede ser que su niño tenga un TESTÍCULO QUE NO HA DESCENDIDO."
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿La orina parece salirle del cuerpo del pene del niño en vez de la punta, y el pene se le dobla hacia abajo?",
+    "diagnostico": "La uretra es un tubo a través del cual se elimina la orina que drena de la vejiga. HYPOSPADIAS es una afección en la cual la apertura de la uretra está localizada a lo largo del cuerpo del pene."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿A pesar de que al niño le hicieron la circuncisión todavía tiene mucha piel alrededor de la punta del pene?",
+    "diagnostico": "A si niño pudieron haberle hecho una CIRCUNCISIÓN INCOMPLETA."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Parece que la piel del prepucio del niño está demasiado estirada para poder halarla hacia atrás?",
+    "diagnostico": "Esta afección se llama FIMOSIS"
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Le cuesta trabajo distinguir el sexo de su lactante al nacer o al poco tiempo después?",
+    "diagnostico": "GENITALES AMBIGUOS es un defecto congénito en el cual los genitales no están bien formados y son difíciles de distinguir."
+  }
+  ]

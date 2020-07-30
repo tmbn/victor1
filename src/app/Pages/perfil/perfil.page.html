@@ -1,0 +1,52 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Mi perfil</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content style="--background: linear-gradient(to bottom,rgb(255, 255, 255),#5098f5);">
+  <div class="ion-text-center" >    
+      <ion-icon  style="font-size: 200px;"  name="person-circle-outline"></ion-icon>    
+  </div>
+  <ion-card mode="ios">
+    <ion-list>
+      <ion-item>
+        <ion-label>Nombre</ion-label>
+        <ion-label class="ion-text-end">Nombre usuario</ion-label>
+      </ion-item>
+      <ion-item>
+        <ion-label>Sexo</ion-label>
+        <ion-select placeholder="Seleccionar">
+          <ion-select-option value="M">Mujer</ion-select-option>
+          <ion-select-option value="H">Hombre</ion-select-option>
+        </ion-select>
+      </ion-item>
+      <ion-item>
+        <ion-label>Altura(cm)</ion-label>
+        <ion-input class="ion-text-end" type="numeric" placeholder="Escribe tu Altura"></ion-input>        
+      </ion-item>
+      <ion-item>
+        <ion-label>Peso(Kg)</ion-label>
+        <ion-input class="ion-text-end" type="numeric" placeholder="Escribe tu Peso"></ion-input>        
+      </ion-item>
+      <ion-item>
+        <ion-label>Constitución</ion-label>
+        <ion-select placeholder="Seleccionar">
+          <ion-select-option value="P">Pequeña</ion-select-option>
+          <ion-select-option value="N">Normal</ion-select-option>
+          <ion-select-option value="F">Fuerte</ion-select-option>
+        </ion-select>
+      </ion-item>
+      <ion-item>
+        <ion-label>Actividad Física</ion-label>
+        <ion-select placeholder="Seleccionar">
+          <ion-select-option value="N">Ninguna</ion-select-option>
+          <ion-select-option value="S">Suave</ion-select-option>
+          <ion-select-option value="M">Media</ion-select-option>
+          <ion-select-option value="I">Intensa</ion-select-option>
+        </ion-select>
+      </ion-item>
+    </ion-list>
+  </ion-card>
+
+</ion-content>

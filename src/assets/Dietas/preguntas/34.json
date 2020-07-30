@@ -1,0 +1,95 @@
+[
+  {
+      
+    "Si": 10,
+    "no": 1,
+    "Pregunta": "¿Le están saliendo lágrimas del ojo?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": 7,
+    "no": 2,
+    "Pregunta": "¿Presenta visión borrosa?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Recientemente se lastimó el ojo y está sintiendo cualquiera de los siguientes síntomas: aparición súbita de manchas e hilos flotando en su campo visual; destellos de luz en uno o en ambos ojos; pérdida parcial de la visión?",
+    "diagnostico": "Usted puede tener un problema grave y urgente tal como un DESPRENDIMIENTO DE RETINA."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Tiene el ojo rojo, y además presenta un dolor muy fuerte o de repente su agudeza visual ha disminuido o se le ha nublado?",
+    "diagnostico": "Sus síntomas pueden deberse a GLAUCOMA AGUDO, una afección por causa de un aumento en la presión en el ojo que puede causar lesión permanente de la vista o ceguera."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Está teniendo síntomas como de resfriado tales como: fiebre, fatiga, dolores musculares y dolor intenso en una o ambas sienes?",
+    "diagnostico": "Sus síntomas pueden ser un signo de una afección inflamatoria grave llamada ARTERITIS DE CÉLULAS GIGANTES (TEMPORAL)."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Presenta mucosidad nasal espesa y dolor o presión en la frente y detrás de los ojos?",
+    "diagnostico": "SINUSITIS (una infección de los senos paranasales) puede ser la causa de su dolor."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Tiene los ojos rojos, sensibles a la luz y está sintiendo dolor en los ojos, y ve manchas oscuras flotantes?",
+    "diagnostico": "Usted puede tener una inflamación dentro del ojo llamada IRITIS."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Tiene usted diabetes y ha notado cualquier cambio en la visión?",
+    "diagnostico": "Con el tiempo, el exceso de glucosa (azúcar) en la sangre puede causar problemas en los ojos."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Tiene los ojos rojos, y le pica y están hinchados?",
+    "diagnostico": "Sus síntomas pueden deberse a una ALERGIA o a la PICADURA DE UN INSECTO."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "¿Tiene fiebre y tiene el ojo hinchado y le duele si se lo toca",
+    "diagnostico": "Estos pueden ser signos de una infección grave en el ojo llamada CELULITIS PERIORBITARIA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 11,
+    "Pregunta": "¿Tiene un abultamiento firme y doloroso en el párpado?",
+    "diagnostico": "Usted puede tener un CALACIO o un ORZUELO; ambos son tipos de ORZUELOS." 
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 12,
+    "Pregunta": "¿Presenta parte blanca del ojo de color rosado, rojo o irritada, y le sale alguna secreción?",
+    "diagnostico": "La CONJUNTIVITIS, también llamada QUERATOCONJUNTIVITIS AGUDA puede ser por causa de un virus o de una bacteria."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 13,
+    "Pregunta": "¿Tiene el ojo rojo, la visión borrosa y siente como si tuviera arena dentro del ojo?",
+    "diagnostico": "Esta sensación se puede deber a que tiene una ABRASIÓN DE LA CÓRNEA o una partícula pequeña debajo del párpado."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 14,
+    "Pregunta": "¿Tiene una sensación de ardor, tiene el ojo rojo y comezón (picor) además la piel alrededor del ojo esta descamada?",
+    "diagnostico": "Esta irritación crónica se conoce con el nombre de BLEFARITIS."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Usa usted lentes de contacto y tiene dolor en los ojos?",
+    "diagnostico": "Usted puede tener una irritación por el sobre uso de lentes de contacto o por una afección más grave del ojo por causa de los lentes de contacto."      
+  }
+  ]

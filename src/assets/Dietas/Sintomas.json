@@ -1,0 +1,279 @@
+[
+    {
+      "Tipo": "Adulto",
+      "id": "47",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/virus.svg",
+      "title": "COVID-19"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "1",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Diarrea"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "2",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Problemas al respirar"
+    },
+    {
+      "Tipo": "Niños",
+      "id": "3",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/NN.svg",
+      "title": "Problemas al respirar en niños"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "4",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Dolores abdominales (últimas 48 horas) "
+    },    
+    {
+      "Tipo": "Adulto",
+      "id": "5",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Dolores abdominales (más de 48 horas) "
+    },
+    {
+      "Tipo": "Niños",
+      "id": "6",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/NN.svg",
+      "title": "Molestia o dolor en el pecho en los niños"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "7",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Molestia o dolor en el pecho (hace menos de 24 horas)"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "8",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Molestia o dolor en el pecho (hace más de 24 horas)"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "9",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Molestia con dolor en la parte baja de la espalda: (dolor lumbar)"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "10",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Dolores de cabeza"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "11",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Erupciones cutáneas como sarpullido, granos y otros cambios en la piel"
+    },
+    {
+      "Tipo": "Niños",
+      "id": "12",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/NN.svg",
+      "title": "Fiebre o temperatura en niños"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "13",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Hinchazón del rostro"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "15",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Hinchazón del cuello"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "16",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Vómito y náuseas"
+    },
+    {
+      "Tipo": "Niños",
+      "id": "17",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/NN.svg",
+      "title": "Vómito y náuseas en niños"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "18",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Pérdida o caída abundante del cabello"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "19",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Dificultad al orinar"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "20",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Dolor y molestias  de oído"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "21",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Molestias al defecar (evacuar)"
+    },
+    {
+      "Tipo": "Niños",
+      "id": "22",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/NN.svg",
+      "title": "Estreñimiento infantil"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "23",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Problemas bucales"
+    },
+    {
+      "Tipo": "Niños",
+      "id": "24",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/NN.svg",
+      "title": "Problemas bucales en niños"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "25",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Dolores y molestias en la cadera"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "26",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Dolores y molestias en la garganta"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "27",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Dolores o molestias  en el brazo, muñeca, y mano"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "28",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Dolores o molestias  en las piernas"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "29",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Dolores o molestias  en los dientes"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "30",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Mujeres.svg",
+      "title": "Problemas o molestias  en los genitales femeninos"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "31",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Hombres.svg",
+      "title": "Problemas o molestias  en los genitales masculinos"
+    },
+    {
+      "Tipo": "Niños",
+      "id": "32",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Niñas.svg",
+      "title": "Problemas o molestias  en los genitales de una niña"
+    },
+    {
+      "Tipo": "Niños",
+      "id": "33",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Niños.svg",
+      "title": "Problemas o molestias  en los genitales de un niño"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "34",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Molestias en los ojos, problemas oculares"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "35",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Problemas y molestias  en los pies"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "36",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Dolores o molestias  en los tobillos"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "37",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Problemas auditivos, molestias  en los oídos"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "38",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Dolores o molestias  en las rodillas"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "39",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Mujeres.svg",
+      "title": "Dolores en el ciclo menstrual"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "40",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Dolores en el cuello"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "41",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Dolores en los hombros"
+    },
+    {
+      "Tipo": "Niños",
+      "id": "42",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/NN.svg",
+      "title": "Dificultad  para alimentar a los niños"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "43",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Hombres.svg",
+      "title": "Dolores o molestias en el tejido mamario en los hombres, (tetillas)"
+    },
+    {
+      "Tipo": "Adulto",
+        "id": "44",
+        "Icon": "/assets/icon/SVG/PartesCuerpo/Mujeres.svg",
+        "title": "Molestias relacionadas con los senos en las mujeres"
+    },
+    {
+      "Tipo": "Adulto",
+      "id": "45",
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Gripe y resfriados"
+    },
+    { 
+      "Tipo": "Adulto",
+      "id": "46", 
+      "Icon": "/assets/icon/SVG/PartesCuerpo/Todos.svg",
+      "title": "Tos"
+}
+    
+  ]

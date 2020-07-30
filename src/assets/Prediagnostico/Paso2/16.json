@@ -1,0 +1,95 @@
+[
+  {
+      
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿La persona afectada es un lactante o un niño?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": 2,
+    "no": 2,
+    "Pregunta": "¿Tiene usted fiebre?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Presenta un tinte amarillento en la piel y en la parte blanca de los ojos acompañado con síntomas de resfriado o de gripe?",
+    "diagnostico": "Usted puede tener HEPATITIS, una enfermedad que causa inflamación del hígado y que comúnmente es por causa de un virus."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Presenta síntomas de resfriado o de gripe acompañado de náuseas, vómito o diarrea?",
+    "diagnostico": "Usted podría tener una GASTROENTERITIS viral, también conocida como gripe estomacal."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Presenta dolor en la parte media dolor en la parte media o derecho del abdomen acompañado de nauseas o vómito, pérdida del apetito o fiebre?",
+    "diagnostico": "Usted puede tener APENDICITIS, una inflamación del apéndice o una OBSTRUCCIÓN INTESTINAL."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Presenta un dolor de cabeza fuerte, rigidez en el cuello y vómito y la luz normal le hace daño en los ojos?",
+    "diagnostico": "Usted puede tener MENINGITIS, una infección grave de las membranas que recubren el cerebro."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Tiene dolor en la parte superior derecha del abdomen y los alimentos grasosos hacen que su dolor empeore?",
+    "diagnostico": "Usted puede tener CÁLCULOS BILIARES o COLECISTITIS una infección de la vesícula biliar. Esto también puede deberse a una PANCREATITIS, una inflamación del páncreas."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Su enfermedad empezó al poco tiempo de comer algo que sospeche que estuvo en mal estado?",
+    "diagnostico": "Usted puede tener una INTOXICACIÓN ALIMENTARIA causada por una toxina o bacteria presente en un alimento contaminado. Esto es lo más probable si alguien más que comió lo mismo también se enfermó."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Tiene ardor en la parte superior media del abdomen?",
+    "diagnostico": "Usted podría tener una ÚLCERA GASTRODUODENAL o GASTRITIS por causa de la infección por una bacteria llamada HELICOBACTER PYLORI."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "¿Ha vomitado usted lo que parece ser sangre o ha tenido evacuaciones (eses) de color negro?",
+    "diagnostico": "A usted le está sangrando una ÚLCERA o tiene otra afección grave tal como un CÁNCER."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 11,
+    "Pregunta": "¿Presenta una sensación de ardor en la parte inferior del pecho, acompañado de un sabor amargo en la garganta o después de comer?",
+    "diagnostico": "Usted puede tener ACIDEZ ESTOMACAL." 
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 12,
+    "Pregunta": "¿Está tomando algún medicamento o vitaminas?",
+    "diagnostico": "Los medicamentos u otros suplementos pueden estar causando el problema."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 13,
+    "Pregunta": "¿Se ha saltado un período menstrual o sospecha estar embarazada?",
+    "diagnostico": "Usted puede estar EMBARAZADA."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 14,
+    "Pregunta": "¿Tiene diagnostico de diabetes o en algún examen le han indicado azúcar elevada en su sangre?",
+    "diagnostico": "Usted podría tener CETOACIDOSIS, usualmente por causa de un nivel de azúcar alto en la sangre."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Se golpeó en la cabeza recientemente y ahora tiene dolor de cabeza, visión borrosa, entumecimiento u hormigueo?",
+    "diagnostico": "Es probable que usted tenga una LESIÓN EN LA CABEZA grave."      
+  }
+  ]

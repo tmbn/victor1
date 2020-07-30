@@ -1,0 +1,47 @@
+[
+  {
+      
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿Se le está cayendo el cabello en pequeñas zonas?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Estas zonas tienen apariencia rojiza, le producen comezón (picazón) o se ven grasosos?",
+    "diagnostico": "Este tipo de pérdida del cabello puede ser por causa de SEBORREA, LIQUEN PLANO o TIÑA DEL CUERO CABELLUDO."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Es usted un hombre que ha perdido el cabello de forma gradual en la parte frontal o en la corona de su cabeza y tiene parientes con pérdida similar del cabello?",
+    "diagnostico": "Usted puede tener el PATRÓN CLÁSICO DE CALVICIE MASCULINA."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Recientemente ha usado sustancias químicas en su cabello o se ha hecho trenzas apretadas o pegadas al cuero cabelludo?",
+    "diagnostico": "Su pérdida del cabello puede deberse a DAÑO FOLICULAR."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Está usted tomando algún medicamento nuevo o está recibiendo tratamiento para cáncer?",
+    "diagnostico": "La pérdida del cabello puede ser un efecto secundario de los MEDICAMENTOS, ESTEROIDES o de la QUIMIOTERAPIA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Se ha sentido débil, cansado o ansioso?",
+    "diagnostico": "Usted puede tener una DEFICIENCIA de HIERRO o de ZINC, ENFERMEDAD DE LA TIROIDES o exceso de ESTRÉS."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Es usted una mujer mayor de 50 años o ha tenido un bebé en los tres últimos meses?",
+    "diagnostico": "Los CAMBIOS HORMONALES pueden causar pérdida del cabello en la mujer. Si la pérdida de su cabello ha ocurrido de forma gradual con el paso de los años, la DEGENERACIÓN FOLICULAR puede ser la causa de ello."
+  }
+  ]

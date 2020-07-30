@@ -1,0 +1,64 @@
+[
+  {      
+    "Si": "/diagnostico",
+    "no": 1,
+    "Pregunta": "¿Presenta fiebre, síntomas de resfriado, náuseas, vómito o diarrea?",
+    "diagnostico": "Usted podría tener GRIPE O UN RESFRIADO o GASTROENTERITIS, la «gripe estomacal»."
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Presenta dolor de cabeza intenso, rigidez en el cuello, vómito y la luz normal le molesta en los ojos?",
+    "diagnostico": "Usted podría tener MENINGITIS, una infección grave del líquido que está alrededor del cerebro y de la médula espinal, o una HEMORRAGIA ENDOCRANEAL, un sangrado dentro del cerebro."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿A sufrido un dolor reciente en el que ha perdido el conocimiento?",
+    "diagnostico": "Usted puede tener una CONCUSIÓN, o un HEMATOMA SUBDURAL, una condición grave por causa de sangre extravasada que comprime su cerebro."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Tiene entumecimiento, hormigueo o debilidad en los brazos y en las piernas?",
+    "diagnostico": "Usted puede estar teniendo un DERRAME (EMBOLIA)."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Siente presión alrededor de los ojos o tiene un flujo nasal de color amarillo verdoso que se acompaña con dolor de garganta y fiebre?",
+    "diagnostico": "Usted podría tener una INFECCIÓN DE LOS SENOS PARANASALES."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Presenta dolor entre leve y moderado alrededor de la región temporal (a los lados de la cabeza) y el dolor le da cuando está estresado o después de estar sentado en la misma posición por un rato largo?",
+    "diagnostico": "Usted podría tener una CEFALEA TENSIONAL."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Presenta un dolor intenso, pulsátil, con frecuencia acompañado de náuseas o vómito, y a veces, antes de que le dé el dolor, puede ver luces intermitentes o manchas?",
+    "diagnostico": "Usted puede sufrir de dolores de cabeza tipo MIGRAÑAS."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Presenta dolor de cabeza después de leer, mirar televisión o usar una computadora?",
+    "diagnostico": "Sus dolores de cabeza se pueden deber a PROBLEMAS DE LA VISTA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Presenta dolor de cabeza y se pone tembloroso o débil si se salta una comida?",
+    "diagnostico": "Sus dolores pueden deberse a HIPOGLICEMIA, un nivel bajo de azúcar en sangre"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Está usted tratando de dejar la cafeína, el alcohol o alguna otra droga?",
+    "diagnostico": "Usted puede estar sufriendo de un SÍNDROME DE ABSTINENCIA"
+  }
+  ]

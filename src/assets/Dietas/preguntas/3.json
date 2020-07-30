@@ -1,0 +1,46 @@
+[
+  {     
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿Su niño tiene fiebre?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Su niño tiene tos productiva(flema) y tiene síntomas de resfriado o gripe?",
+    "diagnostico": "Los niños pequeños están propensos a que les dé BRONQUIOLITIS, una tos que se acompaña de dificultad para respirar. La BRONQUITIS y la NEUMONÍA también pueden causar dificultad respiratoria («sensación de falta de aire»)."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Su niño tiene dolor de garganta, tos seca (tos perruna)?",
+    "diagnostico": "El CRUP, la EPIGLOTITIS o un ABSCESO en la amígdala pueden causar estos síntomas. Todos constituyen infecciones graves."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Su niño tiene tos seca y síntomas de resfriado acompañados de dificultad para respirar?",
+    "diagnostico": "Ocasionalmente, la BRONQUITIS VIRAL causará constricción (cierre) en los bronquios del mismo modo que el asma puede causar dificultad respiratoria.}"
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Su niño está haciendo sonidos como silbidos (sibilancias) con el pecho y tiene dificultad para respirar? ",
+    "diagnostico": "El ASMA puede causar esos sonidos llamados sibilancias, y esto puede ser grave, pero hay tratamiento para esto."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿A su niño parece faltarle el aire después de haberse tragado un juguete, moneda u otro objeto?",
+    "diagnostico": "Cualquier objeto pequeño puede bloquear una vía aérea y causar dificultad respiratoria o ASFIXIA (atragantamiento)."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Cuándo su bebé duerme, algunas veces parece como si el bebé dejara de respirar?",
+    "diagnostico": "Episodios cortos en que no se respira pueden ser normales, mientras que los episodios largos pueden ser una señal de alarma de SÍNDROME DE MUERTE SÚBITA DEL LACTANTE. "
+  }
+]

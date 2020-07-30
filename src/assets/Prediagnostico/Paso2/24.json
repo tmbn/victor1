@@ -1,0 +1,89 @@
+[
+  {
+      
+    "Si": 10,
+    "no": 1,
+    "Pregunta": "¿El niño o niña tiene fiebre?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Su niño o niña es un lactante, y el lactante está babeando o queriendo chupar las cosas?",
+    "diagnostico": "Su niño podría estar comenzando la DENTICIÓN."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿El niño tiene encías rojas o inflamadas que pueden sangrar cuando se cepilla?",
+    "diagnostico": "Su niño puede tener una ENFERMEDAD PERIODONTAL tal como GINGIVITIS o PERIODONTITIS cuya causa por lo general es la mala HIGIENE DENTAL."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Su niño tiene una costra de color miel en la boca que puede producirle comezón?",
+    "diagnostico": "Su niño podría tener IMPÉTIGO, una infección contagiosa de la piel."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿El niño o niña tiene una úlcera(lastimado) de color rojo o violeta en el labio?",
+    "diagnostico": "Su niño probablemente tiene un HERPES LABIAL por causa de un virus del HERPES."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿El niño o niña tiene lesiones en forma de placas blancas o amarillentas en la parte interna de los labios, las mejillas, las encías o la lengua?",
+    "diagnostico": "Estas pueden ser AFTAS DOLOROSAS. Pueden ser por causa de infecciones virales."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Tiene su niño abultamientos pequeños y dolorosos en la lengua?",
+    "diagnostico": "Estos abultamientos probablemente son PAPILAS (el lugar donde están las papilas gustativas) que se han INFLAMADO debido a una lesión por quemadura con una comida o líquido caliente, o por una mordedura que el mismo niño se hizo"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Su niño presenta vesículas (lesiones pequeñas) indoloras y llenas de líquido que pueden ser de color azulado en los labios encías, paladar o debajo de la lengua?",
+    "diagnostico": "Estos pueden ser MUCOCELES, quistes inocuos que puede originarse por chupar tejido de la boca entre los dientes."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Tiene su niño parches cremosos de color blanco sobre la lengua, dentro de la mejilla o en las encías, y le duelen si se los raspa?",
+    "diagnostico": "Esto puede ser MUGUET por causa de un hongo que está creciendo fuera de control."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "¿Su niño presenta hinchazón en los labios y la lengua?",
+    "diagnostico": "Su niño puede estar teniendo una REACCIÓN ALÉRGICA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 11,
+    "Pregunta": "El niño presenta lesiones rojizas o vesículas (sacos con liquido) distribuidos desde la cara, cuello pecho abdomen y espalda.",
+    "diagnostico": "Su niño puede tener VARICELA, una infección contagiosa por causa del virus de la varicela-zóster." 
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 12,
+    "Pregunta": "¿El niño presenta dolor de garganta o lesiones dolorosas en la lengua o la boca además erupciones cutáneas, en las palmas de las manos en la planta de los pies?",
+    "diagnostico": "Su niño puede tener EXANTEMA VÍRICO DE MANOS, PIES Y BOCA o HERPANGINA, infecciones virales causadas por el VIRUS DE COXSACKIE."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 13,
+    "Pregunta": "¿Su niño presenta amígdalas rojas con placas blanquecinas acompañado de salpullido (ERUPCIONES CUTANEAS) en alguna parte del cuerpo?",
+    "diagnostico": "Su niño puede tener FARINGITIS POR ESTREPTOCOCO, una infección causada por bacterias."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Su niño tiene lesiones dolorosas, hinchazón o enrojecimiento en la parte interna de las mejillas y en las encías?",
+    "diagnostico": "Su niño puede tener GINGIVOESTOMATITIS, una afección por causa de una infección viral por el virus del HERPES o por los VIRUS DE COXSACKIE."      
+  }
+  ]

@@ -1,0 +1,88 @@
+[
+    {     
+      "Si": 1,
+      "no": 1,
+      "Pregunta": "¿También tiene náuseas o está vomitando?",
+      "diagnostico": "-"
+      
+    },
+    {
+      "Si": "/diagnostico",
+      "no": 2,
+      "Pregunta": "¿Sus síntomas comenzaron entre 30 minutos y 2 horas después de comer o haber ingerido productos lácteos?",
+      "diagnostico": "Sus síntomas pueden ser por causa de una INTOLERANCIA A LA LACTOSA. Las personas que tienen esta afección tienen dificultad para digerir el azúcar en la leche y en otros productos lácteos. "
+    },
+    {
+      "Si": "/diagnostico",
+      "no": 3,
+      "Pregunta": "¿Ha comido algo que hubiera podido estar descompuesto, o hubo alguien más que comió lo mismo y que también se enfermó?",
+      "diagnostico": "Usted puede tener INTOXICACIÓN ALIMENTARIA. Otros síntomas de intoxicación alimentaria pueden incluir dolor de cabeza, fiebre y escalofríos y debilidad."
+    
+    },
+    {
+      "Si": "/diagnostico",
+      "no": 4,
+      "Pregunta": "¿Ha viajado recientemente a otro país?",
+      "diagnostico": "Usted puede tener DIARREA DEL VIAJERO, cuya causa es leche o comida contaminada. "
+    },    
+    {
+      "Si": "/diagnostico",
+      "no": 5,
+      "Pregunta": "¿Tiene dolor en la parte inferior izquierda del abdomen, especialmente después de que come algo que es difícil de digerir: grasas, carne, etc? ",
+      "diagnostico": "Usted puede tener una afección intestinal tal como DIVERTICULOSIS o DIVERTICULITIS"
+    },
+    {
+      "Si": "/diagnostico",
+      "no": 6,
+      "Pregunta": "¿Su diarrea es liquida,  tiene dolor de cabeza, dolores musculares sensación de fiebre baja?",
+      "diagnostico": " Usted podría tener una GASTROENTERITIS viral (conocida también como «gripe estomacal»)."
+    },
+    {
+      "Si": "/diagnostico",
+      "no": 7,
+      "Pregunta": "¿Tiene retortijones abdominales (cólicos) fuertes, gas y diarrea semi-líquida seguida de evacuaciones intestinales grasosas?",
+      "diagnostico": "Usted podría tener una forma de DIARREA BACTERIANA (por bacterias) o por causa de infección por un parásito llamado GIARDIA. "
+    },
+    {
+      "Si": "/diagnostico",
+      "no": 8,
+      "Pregunta": "¿Tiene fiebre y está sintiendo un dolor en la parte media o superior del abdomen que se le irradia (se le pasa) a la espalda?",
+      "diagnostico": "Estos pueden ser síntomas de ENFERMEDAD DE LA VESÍCULA BILIAR o de PANCREATITIS."
+    },
+    {
+      "Si": "/diagnostico",
+      "no": 9,
+      "Pregunta": "¿Tiene hinchazón abdominal y está sintiendo un dolor muy fuerte o cólico en la parte inferior del abdomen?",
+      "diagnostico": "Estos pueden ser síntomas de un problema tal como una OBSTRUCCIÓN INTESTINAL o un bloqueo."
+    },
+    {
+      "Si": "/diagnostico",
+      "no": 10,
+      "Pregunta": "¿En la actualidad está tomando algún antibiótico o cualquier otro medicamento nuevo?",
+      "diagnostico": " Su diarrea puede ser por causa del MEDICAMENTO."
+    },
+    {
+      "Si": "/diagnostico",
+      "no": 11,
+      "Pregunta": "¿Tiene diarrea acompañada de gases, hinchazón abdominal y dolores de estómago cada vez que come ciertos alimentos?",
+      "diagnostico": "Los problemas de MALABSORCIÓN tales como la ENFERMEDAD CELIACA pueden causar diarrea asociada con los alimentos."
+    },
+    {
+      "Si": "/diagnostico",
+      "no":12,
+      "Pregunta": "¿Tiene evacuaciones intestinales frecuentes con moco o sangre y dolor abdominal?",
+      "diagnostico": "Usted puede tener ENFERMEDAD INTESTINAL INFLAMATORIA o ENFERMEDAD DE CROHN."
+    },
+    {
+      "Si": "/diagnostico",
+      "no": 13,
+      "Pregunta": "¿Sus evacuaciones intestinales alternan entre estreñimiento y diarrea, y su molestia parece empeorar cuando está bajo mucha tensión emocional (estrés)?",
+      "diagnostico": "La ENFERMEDAD DE COLOR IRRITABLE o COLON ESPÁSTICO puede ser la causa de su diarrea. "      
+    },
+    {
+      "Si": "/diagnostico",
+      "no": 0,
+      "Pregunta": "¿Ha estado estreñido por mucho tiempo y de repente le ha dado una diarrea líquida abundante?",
+      "diagnostico": "Usted puede tener una IMPACTACIÓN FECAL, es decir una masa grande de materia fecal (excremento o popó) dura que está atrapada en el recto."
+    }
+  ]

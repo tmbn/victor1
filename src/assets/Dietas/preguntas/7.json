@@ -1,0 +1,77 @@
+[
+  {
+      
+    "Si": 8,
+    "no": 1,
+    "Pregunta": "¿Presenta usted un dolor muy fuerte en el pecho?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": 3,
+    "no": 2,
+    "Pregunta": "¿Presenta síntomas de resfriado o gripe como fiebre, dolores musculares, escalofríos, tos o congestión nasal?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Presenta tos productiva con flema de color verdoso, amarillento o beige, fiebre y dificultad para respirar?",
+    "diagnostico": "Sus síntomas pueden deberse a una infección tal como NEUMONÍA."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Presenta tos no productiva o productiva en escasa cantidad y no presenta dolor en el pecho cuando respira profundamente?",
+    "diagnostico": "Usted puede tener BRONQUITIS VIRAL. Su dolor puede ser por causa de PLEURESÍA, una irritación del tejido que reviste el pulmón y que usualmente es por causa de una infección viral. Toser fuertemente también puede causar dolor en los músculos y en la caja torácica (pecho)."
+  },    
+  {
+    "Si": 9,
+    "no": 5,
+    "Pregunta": "¿Se siente incómodo por la dificultad para respirar («sensación de falta de aire»)?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Presenta dolor intenso a un lado del pecho cuando respira profundo?",
+    "diagnostico": "Su dolor podría ser indicio de NEUMOTÓRAX, una afección en la cual el aire se escapa de los pulmones y llena la cavidad pectoral. Esto hace que respirar sea difícil."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Presenta dificultad para respirar cuando camina o esta acostado?",
+    "diagnostico": "Usted podría tener un problema grave tal como INSUFICIENCIA CARDIACA CONGESTIVA, ASMA o EDEMA PULMONAR."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Siente presión en el pecho, dificultad para respirar y entumecimiento alrededor de los labios, manos o pies?",
+    "diagnostico": "Estos podrían ser síntomas de HIPERVENTILACIÓN, un episodio de respiración rápida frecuentemente por causa de estrés o ansiedad."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Presenta alguno de los siguientes síntomas? un dolor opresivo o sensación de presión incómoda en la mitad del pecho que le dura más de unos pocos minutos. Molestia en la parte superior del brazo izquierdo. ",
+    "diagnostico": "Su dolor puede deberse a un ATAQUE AL CORAZÓN o INFARTO AL MIOCARDIO. Nota: del mismo modo que para el hombre, el dolor en el pecho es el síntoma más común de un ataque al corazón en la mujer. Sin embargo, las mujeres son más propensas que los hombres a experimentar los siguientes síntomas (junto con o sin dolor en el pecho) cuando tienen un ataque al corazón: dolor abdominal, sentir mareo o vértigo, dolor en la espalda o en la quijada y una fatiga inexplicable."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "¿El dolor o malestar le ocurre solamente al tragar o después de que come?",
+    "diagnostico": "Su dolor puede deberse a una irritación del estómago llamada GASTRITIS o a una irritación del esófago llamada ESOFAGITIS. Una HERNIA HIATAL (una debilidad del diafragma) o espasmos esofágicos también pueden causar este tipo de dolor y malestar."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 11,
+    "Pregunta": "¿Tiene una erupción cutánea (sarpullido) dolorosa y con vesículas en el pecho o en la espalda?",
+    "diagnostico": "Usted podría tener una infección viral en los nervios y en la piel llamada ZÓSTER." 
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Tiene dolor en la espalda que se va (irradiado) hacia la parte de adelante del pecho? ",
+    "diagnostico": "Su dolor puede deberse a una compresión de un nervio, posiblemente por causa de un APLASTAMIENTO VERTEBRAL."
+  }
+  ]

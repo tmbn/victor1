@@ -1,0 +1,125 @@
+[
+  {
+      
+    "Si": "/diagnostico",
+    "no": 1,
+    "Pregunta": "¿La persona afectada es un niño o niña o un recién nacido con una deformidad en los pies?",
+    "diagnostico": "Las deformidades en los pies no son inusuales en los recién nacidos. El PIE DEFORME CONGÉNITO (PIE ZAMBO) es un trastorno común en el cual uno o ambos pies apuntan hacia adentro o hacia afuera."
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿La persona afectada es un niño que apenas empieza a caminar o uno más grande y pies apuntan hacia adentro?",
+    "diagnostico": "La causa puede ser ANTEROVERSIÓN FEMORAL, TORSIÓN TIBIAL INTERNA o METATARSO ADUCTO, que comúnmente se conoce como intrarrotación de la marcha."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿El dolor en el pie comenzó después de una actividad física muy intensa?",
+    "diagnostico": "Usted podría tener una FRACTURA POR SOBRECARGA de los huesos de su pie. El dolor de las fracturas por sobrecarga disminuye con el descanso y aumenta con la actividad."
+  
+  },
+  {
+    "Si": 4,
+    "no": 4,
+    "Pregunta": "¿El dolor o la hinchazón en el pie se produjo luego de un golpe o lesión?",
+    "diagnostico": "-"
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Tiene hinchazón o enrojecimiento en la parte superior del pie",
+    "diagnostico": "Su dolor puede ser por LESIÓN EN LA PIEL O EN LOS TENDONES en la parte superior del pie."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Tiene el pie hinchado y es incapaz de pararse o caminar con el pie afectado?",
+    "diagnostico": "Su PIE o el HUESO DEL TOBILLO puede estar FRACTURADO."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿El dolor en la planta del pie es solamente en el arco?",
+    "diagnostico": "Usted puede haberse hecho un ESGUINCE en el LIGAMENTO del arco del pie."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Presenta dolor únicamente en un dedo del pie y comenzó después de un golpe o lesión?",
+    "diagnostico": "Su dolor puede ser por HIPEREXTENSIÓN DEL DEDO GORDO (un esguince en el dedo gordo), por un LIGAMENTO DISTENDIDO o por una FRACTURA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Tiene pie plano y está teniendo dolor?",
+    "diagnostico": "Usted puede tener «ARCOS CAÍDOS», una afección conocida como PIE PLANO."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "Presenta dolor en el arco del pie, principalmente después de levantarse en la mañana",
+    "diagnostico": "Su dolor se puede deber a irritación de los tejidos y del ligamento del arco del pie lo cual se conoce como FASCIITIS PLANTAR."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 11,
+    "Pregunta": "¿Presenta un área de piel pequeña, dura y engrosada en la planta del pie o a los lados del dedo del pie o alguno de los dedos?",
+    "diagnostico": "Esas áreas engrosadas lo más seguro es que sean CALLOS. Si parece que tuvieran gránulos pequeños dentro, pueden ser VERRUGAS. Un pedazo pequeño de vidrio enterrado también puede causar estos problemas." 
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 12,
+    "Pregunta": "¿Tiene dolor en el dedo gordo del pie?",
+    "diagnostico": "La deformidad de su dedo gordo se puede deber al desplazamiento de una articulación lo cual comúnmente se conoce como un JUANETE."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 13,
+    "Pregunta": "¿Presenta dolor en las articulaciones de los dedos de los pies y se acompaña de fiebre?",
+    "diagnostico": "La causa de su dolor puede ser ARTRITIS REUMATOIDE."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 14,
+    "Pregunta": "¿Tiene el dedo gordo del pie enrojecido, hinchado presenta dolor intenso con cualquier cosa que lo toque?",
+    "diagnostico": "Usted podría tener GOTA."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 15,
+    "Pregunta": "¿Tiene un dolor intenso en del talón cuando pone peso sobre éste?",
+    "diagnostico": "Su dolor podría deberse a un ESPOLÓN CALCÁNEO, una pequeña protuberancia del hueso del talón (calcáneo) pero lo más probable debido a FASCIITIS PLANTAR."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 16,
+    "Pregunta": "¿Presenta un área de piel blanca y húmeda que se está pelando, comezón (picor) entre los dedos de los pies?",
+    "diagnostico": "Estos pueden ser síntomas de una infección por hongos llamada PIE DE ATLETA."      
+  },
+  {
+    "Si": 17,
+    "no": 17,
+    "Pregunta": "¿Presenta dolor, hormigueo o entumecimiento en la planta y en los dedos de los pies?",
+    "diagnostico": "-"      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 18,
+    "Pregunta": "¿Presenta una parte de su pie enrojecida, hinchada, caliente y sensible al tacto?",
+    "diagnostico": "Usted podría tener una infección llamada CELULITIS. Si usted tiene diabetes una infección del pie puede ser algo más común y más peligroso."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 19,
+    "Pregunta": "¿Los dedos de los pies han estado expuesto a temperaturas demasiado frías?",
+    "diagnostico": "La CONGELACIÓN puede dañar su piel y sus tejidos."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Ha perdido la sensación en los dedos de los pies, tiene alguna lesión en la piel y presenta mal olor?",
+    "diagnostico": "La GANGRENA puede ocurrir si una parte del cuerpo pierde la capacidad para recibir sangre por causa de la diabetes o por el endurecimiento de las arterias."      
+  }
+  ]

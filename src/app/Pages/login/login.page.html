@@ -1,0 +1,60 @@
+<ion-header>
+  <ion-toolbar style="--background: linear-gradient(to bottom,rgba(255, 255, 255, 0),rgba(148, 192, 250, 0.068)); position: fixed;"  no-border>
+    <!-- <ion-title style="text-align: center;" color="primary"> Inicia sesión </ion-title> -->
+  </ion-toolbar>
+</ion-header>
+
+<ion-content style="  --background: linear-gradient(to bottom,#025fd8b6,#c1dbfd)">
+  <div style="margin-left: -180px; opacity: 0.25; width: 1250px; position: absolute;" >
+    <img src="assets/icon/LoginBack.jpg">
+  </div>
+  <div class="ion-text-center" style="margin-top: 5%; margin-left: 25%;">
+    <ion-icon style="font-size: 275px;" src="/assets/icon/OkCareIcon.svg"></ion-icon>
+  </div>
+  <div class="ion-padding" style="margin-top: 15%;">
+    <ion-item transparent style="opacity: 0.7; border-radius: 10mm;">    
+      <ion-input  placeholder="Correo" [(ngModel)]="email" type="text">
+      </ion-input>
+    </ion-item>
+    <ion-item transparent  style="opacity: 0.7; border-radius: 10mm; margin-top: 4%; width: 100%;">     
+      <ion-input   placeholder="Contraseña" [(ngModel)]="pass" [type]="showPassword ? 'text' :'password'"></ion-input>
+      <ion-icon (click)=" togglePassword()" style="font-size: 30px; " [name]="passwordToggleIcon" ></ion-icon>
+    </ion-item>
+    <div padding style="margin-top: 5%;" class="ion-text-center">
+      <ion-button (click)="Login()" expand="block"  color="primary" style="border: 4px solid rgb(255, 255, 255); border-radius: 10mm;" class="ion-button-class" shape="round" fill="solid"> Iniciar sesión</ion-button>  
+    </div>
+    <ion-row>
+      <ion-col size="6">
+        <div padding style="margin-top: 10%;" class="ion-text-center">
+          <ion-button  expand="block"  (click)="CrearCuentabtn()"  color="primary" style="border: 4px solid rgb(255, 255, 255); border-radius: 10mm;" class="ion-button-class" shape="round" fill="solid"> Crear una cuenta</ion-button>  
+        </div> 
+      </ion-col>
+      <ion-col size="6">
+        <div padding style="margin-top: 10%;" class="ion-text-center">
+          <ion-button  expand="block"  routerLink="/restablecer-key"  color="primary" style="border: 4px solid rgb(255, 255, 255); border-radius: 10mm; font-size: 12px;" class="ion-button-class" shape="round" fill="solid"> Olvide mi contraseña</ion-button>  
+        </div>  
+      </ion-col>
+    
+    </ion-row>
+    
+      
+   
+  </div>
+ 
+  <ion-row>
+    <ion-col>
+      <div class="ion-text-end">
+        <ion-icon style="font-size: 35px;" src="assets/icon/google.svg"></ion-icon>
+      </div>      
+    </ion-col>
+    <ion-col>
+      <div class="ion-text-start">
+        <ion-icon (click)="loginfb()" style="font-size: 35px;" src="assets/icon/facebook.svg"></ion-icon>
+      </div>
+    </ion-col>
+  </ion-row>
+
+  
+
+
+</ion-content>

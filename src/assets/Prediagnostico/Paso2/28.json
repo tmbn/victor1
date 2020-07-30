@@ -1,0 +1,65 @@
+[
+  {
+      
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿Presenta dolor en la pierna o en el tobillo después de una caída o de una lesión?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Presenta una deformidad en la pierna, es incapaz de pararse o de poner presión sobre la pierna afectada?",
+    "diagnostico": "Usted puede tener un HUESO ROTO tal como la tibia o el peroné en la pantorrilla. "
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Escuchó un sonido como de que algo se destapó o como un chasquido al momento de la lesión?",
+    "diagnostico": "Usted pudo haberse hecho un ESGUINCE en el tobillo, pero es posible romperse un hueso de la pantorrilla y seguir parado sobre éste."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Presenta moretones o hinchazón en la pantorrilla o en el tobillo?",
+    "diagnostico": "Usted puede tener un DESGARRO parcial o completo del TENDÓN DE AQUILES que es el que conecta el músculo de la pantorrilla con el talón. Esta lesión le va a causar dolor y dificultad para apuntar el pie hacia abajo. UN MÚSCULO DE LA PANTORRILLA DESGARRADO dolerá y podría formar moretones."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Presenta dolor o hinchazón al frente o en la parte interna de la pantorrilla, luego haber comenzado actividad física como correr o saltar?",
+    "diagnostico": "Usted podría tener lo que se conoce como un ASTILLADO DE LA ESPINILLA (síndrome por estrés medial de la tibia), una inflamación de los ligamentos y de otro tejido conectivo a lo largo del hueso de la espinilla (TIBIA) o una FRACTURA POR SOBRECARGA, una fisura delgada en el hueso. La causa de estas lesiones con frecuencia es el uso excesivo que acompaña la actividad física repetitiva."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Tiene usted dolor, hinchazón, enrojecimiento o calor en la pantorrilla?",
+    "diagnostico": "Usted puede tener una TROMBOSIS VENOSA PROFUNDA, es decir un coágulo en las venas de los músculos de la pantorrilla que con frecuencia ocurre por inactividad prolongada."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Tiene venas retorcidas de color azul oscuro o morado cerca de la superficie de la piel en la pantorrilla, y tiene dolor o calambres en la pantorrilla o en la pierna que empeoran cuando está de pie o sentado por largo tiempo?",
+    "diagnostico": "Usted puede tener VENAS VÁRICES, es decir venas hinchadas por causa de debilidad en las válvulas y paredes de las venas."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Presenta un área enrojecida dolorosa o hinchada en cualquier parte de la pierna?",
+    "diagnostico": "Usted puede tener una infección tal como CELULITIS (infección de la piel), LINFANGITIS (infección de los canales linfáticos que desembocan en los ganglios linfáticos) u OSTEOMIELITIS (infección del hueso)."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Le duelen las pantorrillas después de caminar y presenta alivio con el descanso?",
+    "diagnostico": "La causa del dolor podría ser CLAUDICACIÓN por ENFERMEDAD ARTERIAL PERIFÉRICA (AEP), cuando las arterias que llevan sangre a los músculos de sus piernas se hacen más angostas."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Tiene usted hinchazón en ambos pies o en ambas pantorrillas?",
+    "diagnostico": "Usted puede tener EDEMA, una acumulación de líquidos que puede ser por causa de INSUFICIENCIA CARDIACA, ENFERMEDAD RENAL, o un bloqueo de la sangre que está regresando al corazón."
+  }
+  ]

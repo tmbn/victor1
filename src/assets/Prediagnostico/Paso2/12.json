@@ -1,0 +1,119 @@
+[
+  {
+      
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿La persona afectada es un lactante o un niño o niña?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": 2,
+    "no": 2,
+    "Pregunta": "¿Tiene sensación de fiebre que aparece luego se va o es intermitente?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Ha tenido fiebre por varias semanas con cansancio y dolor de garganta?",
+    "diagnostico": "Usted podría tener MONONUCLEOSIS."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Presenta dolor de garganta, tos seca, cansancio, dolores de cabeza y dolores musculares?",
+    "diagnostico": "Usted puede tener un RESFRIADO O GRIPE."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Presenta dolor abdominal, escalofríos, náuseas, vómitos, retortijones o diarrea?",
+    "diagnostico": "Usted podría tener una GASTROENTERITIS, una infección intestinal comúnmente conocida como «GRIPE ESTOMACAL»."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Le cuesta trabajo respirar y tiene tos productiva(flema)?",
+    "diagnostico": "Usted puede tener BRONQUITIS o una infección más grave tal como NEUMONÍA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Ha bajado de peso sin explicación y presenta fiebre en ocasiones, sudores nocturnos o ganglios inflamados?",
+    "diagnostico": "Usted puede tener una infección grave tal como una TUBERCULOSIS o SIDA."
+  },
+  {
+    "Si": 8,
+    "no": 8,
+    "Pregunta": "¿Presenta fiebre (38,3°C y 39,4°C)?",
+    "diagnostico": ""
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Tiene dolor de garganta y de cabeza?",
+    "diagnostico": "Usted podría tener una infección causada por bacterias tal como una FARINGITIS POR ESTREPTOCOCO."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "¿Tiene dolor de estómago con náuseas y o vómito?",
+    "diagnostico": "Usted puede tener un problema de salud grave tal como una APENDICITIS, DIVERTICULITIS, PANCREATITIS, HEPATITIS o COLITIS."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 11,
+    "Pregunta": "¿Presenta una zona roja caliente y muy dolorosa generalmente ubicado en el brazo o pierna?",
+    "diagnostico": "Usted podría tener una infección de la piel o del sistema linfático tal como una CELULITIS o una LINFANGITIS." 
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 12,
+    "Pregunta": "¿Tiene un dolor de oído?",
+    "diagnostico": "Usted puede tener una infección del oído medio (OTITIS MEDIA) o una infección del oído externo (OTITIS EXTERNA AGUDA)."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 13,
+    "Pregunta": "¿Se ha expuesto a temperaturas muy altas o siente nauseas o ganas de desmayarse?",
+    "diagnostico": "Usted puede tener un GOLPE DE CALOR."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 14,
+    "Pregunta": "¿Ha comenzado a tomar un medicamento nuevo?",
+    "diagnostico": "Su fiebre puede ser un efecto secundario de su MEDICAMENTO."      
+  },
+  {
+    "Si": 15,
+    "no": 15,
+    "Pregunta": "¿Presenta tempera (mayor 39,4°C)?",
+    "diagnostico": "-"      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 16,
+    "Pregunta": "¿Le cuesta trabajo respirar o presenta tos productiva(flema)?",
+    "diagnostico": "Usted puede tener NEUMONÍA o EMBOLIA PULMONAR."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 17,
+    "Pregunta": "¿Está sintiendo dolor o ardor al orinar acompañado de dolor de espalda?",
+    "diagnostico": "Usted podría tener PIELONEFRITIS, una infección del riñón."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 18,
+    "Pregunta": "¿Presenta un intenso dolor de cabeza muy fuerte, rigidez en el cuello, somnolencia y vómito y le molesta mucho la luz en los ojos?",
+    "diagnostico": "Usted puede tener MENINGITIS, una inflamación de las membranas que recubren el cerebro y la médula espinal."      
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Ha estado afuera expuesto a temperatura extremadamente caliente, y tiene calor, pero no está sudando, posiblemente sintiendo que se va a desmayar o teniendo algo de confusión? ",
+    "diagnostico": "Usted podría tener GOLPE DE CALOR."      
+  }
+  ]

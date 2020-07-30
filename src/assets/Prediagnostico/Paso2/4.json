@@ -1,0 +1,75 @@
+[
+  {      
+    "Si": 1,
+    "no": 1,
+    "Pregunta": "¿Tiene dolor abdominal muy intenso y constante o retortijones muy fuertes (cólicos fuertes)?",
+    "diagnostico": "-"
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Está embarazada o cree que podría estar embarazada?",
+    "diagnostico": "En mujeres embarazadas, el dolor abdominal bajo o el dolor en los órganos genitales femeninos acompañado de sangrado vaginal puede ser un signo de una afección grave tal como un EMBARAZO ECTÓPICO o un ABORTO ESPONTÁNEO."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Tiene cualquiera de los siguientes síntomas? ¿Le duele mucho el estómago al tocárselo? ¿Tiene diarrea con sangre o evacuaciones intestinales de color negro? ¿Está usted vomitando sangre? ¿Tiene usted fiebre?",
+    "diagnostico": "Estos pueden ser signos de un problema grave tal como uno de los siguientes: APENDICITIS, DIARREA INFECCIOSA, SANGRADO INTESTINAL, APÉNDICE PERFORADA, DIVERTICULITIS o ÚLCERA PANCREATITIS OCLUSIÓN INTESTINAL"  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿El dolor comienza en la parte superior media o en la parte superior derecha del abdomen y se desplaza hacia la espalda, y le ocurre o empeora cuando come alimentos muy grasosos?",
+    "diagnostico": "podría tener CÁLCULOS BILIARES o una INFECCIÓN de la vesícula biliar"
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Tiene un dolor súbito (de repente) que le comienza en la espalda cerca de las costillas y baja hacia la región inguinal?",
+    "diagnostico": "Su dolor puede deberse a un CÁLCULO RENAL o a un TUMOR. Si usted tiene fiebre podría tener una INFECCIÓN DE LA VEJIGA o del RIÑÓN."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Tiene dolor en la parte inferior del abdomen y se acompaña de evacuaciones intestinales de moco o sangre(defecación)?",
+    "diagnostico": "Estos pueden ser signos de COLITIS ULCEROSA o de ENFERMEDAD DE CROHN; enfermedades inflamatorias del colon o del intestino grueso."
+  },
+  {
+    "Si": 7,
+    "no": 7,
+    "Pregunta": "¿Tiene dolor tipo cólico (que aparece y desaparece) o sensación de ardor en la parte superior del abdomen?",
+    "diagnostico": "-"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Tiene diarrea, fiebre, dolores musculares, escalofríos, náuseas o vómito?",
+    "diagnostico": "Usted podría tener una GASTROENTERITIS, conocida comúnmente como «gripe estomacal». Casos de gastroenteritis grave pueden causar deshidratación en lactantes y niños pequeños."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Ha pasado más de dos días o tiene que hacer demasiado esfuerzo para realizar evacuaciones intestinales(defecar)?",
+    "diagnostico": "ESTREÑIMIENTO puede ser la causa de su malestar. Ocasionalmente un niño deja de hacer del estómago (defecar) por causa del dolor que le causa una HEMORROIDE o una FISURA ANAL."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "¿Tiene dolor o una sensación de ardor en la parte superior del abdomen que no se modifica cuando usted come (no mejora ni empeora)?",
+    "diagnostico": "Esto podría deberse a GASTRITIS, una irritación del estómago, o a una ÚLCERA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 11,
+    "Pregunta": "¿Presenta dolor constante en el área genial femenina acompañado de flujo?",
+    "diagnostico": "Un dolor sordo y constante, acompañado de una secreción vaginal puede ser un signo de ENFERMEDAD INFLAMATORIA PÉLVICA , EIP (PID en inglés), una infección alrededor de sus ovarios, útero y trompas de Falopio." 
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Presenta dolor leve, malestar o sensación de presión en la parte baja del abdomen acompañado de una sensación de ardor al orinar?",
+    "diagnostico": "CISTITIS, una infección del sistema urinario puede ser dolorosa y causar mucho malestar abdominal."
+  }
+]

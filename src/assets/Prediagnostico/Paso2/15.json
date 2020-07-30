@@ -1,0 +1,59 @@
+[
+  {
+      
+    "Si": "/diagnostico",
+    "no": 1,
+    "Pregunta": "¿Presenta abultamientos o hinchazón a ambos lados del cuello (ganglios linfáticos inflamados)?",
+    "diagnostico": "la pregunta uno me manda a la pregunta dos "
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Presenta fiebre, dolor de garganta, y síntomas de resfriado?",
+    "diagnostico": "Esto puede deberse a un AGRANDAMIENDO DE UN GANGLIO LINFÁTICO por causa de una infección tal como ESTREPTOCOCO, MONONUCLEOSIS o simplemente DOLOR DE GARGANTA."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Los abultamientos están aumentando de tamaño, o los ha tenido en el cuello durante más de dos semanas?",
+    "diagnostico": "Los abultamientos pueden ser GANGLIOS LINFÁTICOS INFECTADOS o posiblemente GANGLIOS LINFÁTICOS CANCEROSOS, tal y como ocurre en la ENFERMEDAD DE HODGKIN."
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Tiene hinchada la parte posterior del cuello a uno o a ambos lados?",
+    "diagnostico": "La pregunta cuatro me manda a la pregunta cinco"
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Presenta una lesión en su piel de su cuero cabelludo?",
+    "diagnostico": "Esta hinchazón probablemente son ganglios linfáticos que están reaccionando a la INFECCIÓN EN LA PIEL."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Presenta lesiones rojizas en la piel de la cara al cuello y tiene fiebre?",
+    "diagnostico": "Usted puede tener una enfermedad viral, o aunque es raro, puede tener SARAMPIÓN ALEMÁN (RUBÉOLA)."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Presenta hinchado detrás y por encima de la mandíbula (quijada) a uno o a ambos lados?",
+    "diagnostico": "Este tipo de hinchazón puede ser por causa de PAPERAS, una enfermedad que causa un virus que ataca las glándulas salivales."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Tiene hinchazón debajo del mentón o en la mitad del cuello?",
+    "diagnostico": "Usted puede tener un quiste o un absceso en el CONDUCTO TIROGLOSO, un problema en la GLÁNDULA TIROIDEA"
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Tiene una masa blanda por la mitad del cuello por encima y entre las clavículas?",
+    "diagnostico": "Usted puede tener la GLÁNDULA TIROIDEA AGRANDADA, un BOCIO o TIROIDITIS, también llamado ENFERMEDAD DE HASHIMOTO o una inflamación de la glándula tiroidea. Esto también puede ser un signo de CÁNCER DE LA TIROIDES o de otras ENFERMEDADES DE LA TIROIDES."
+  }
+  ]

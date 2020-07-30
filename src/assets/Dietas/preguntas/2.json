@@ -1,0 +1,83 @@
+[
+  {
+      
+    "Si": "/diagnostico",
+    "no": 1,
+    "Pregunta": "¿Además de la sensación de «falta de aire» ¿tiene fiebre?",
+    "diagnostico": "Usted podría tener una INFECCIÓN o un problema más grave tal como CÁNCER DEL PULMÓN o EMBOLISMO PULMONAR."
+    
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 2,
+    "Pregunta": "¿Usted tiene de sensación repentina e intensa de «falta de aire» con dolor o presión en el pecho?",
+    "diagnostico": "Usted podría estar teniendo un ATAQUE AL CORAZÓN (infarto), o podría tener un NEUMOTÓRAX, una afección en la cual se mete aire entre los pulmones y la pared del pecho, o un EMBOLISMO PULMONAR, en el cual un coágulo de sangre puede haberse desprendido de una pierna he ido a los pulmones, o ATELECTASIA, es decir un pulmón colapsado."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 3,
+    "Pregunta": "¿Tiene episodios de sensación de «falta de aire» acompañados de ruidos como silbidos al respirar (sibilancias) y tos, o solamente acompañados de tos?",
+    "diagnostico": "Usted podría tener ASMA, o una INFECCIÓN que hace que los bronquiolos se angosten "
+  
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 4,
+    "Pregunta": "¿Ha estado expuesto durante años a vapores, polvo o al humo de cigarrillo y la sensación de «falta de aire» ha ido empeorando lentamente?",
+    "diagnostico": "Usted podría tener ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA (EPOC), una enfermedad del pulmón que incluye BRONQUITIS CRÓNICA y enfisema."
+  },    
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Ha trabajado con o alrededor de asbesto, aserrín de madera, vapores industriales o en una mina de carbón? ",
+    "diagnostico": "Usted podría tener una ENFERMEDAD PULMONAR LABORAL."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 5,
+    "Pregunta": "¿Tiene los pies y los tobillos hinchados, y se le hace más difícil respirar cuando se acuesta?",
+    "diagnostico": "Usted podría tener INSUFICIENCIA CARDIACA CONGESTIVA, la cual puede hacer que se acumule líquido en los pulmones y en los pies. "
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 6,
+    "Pregunta": "¿Se siente cansado todo el tiempo y tiene tos seca, acompañada de dolor en el pecho, y su sensación de «falta de aire» empeora cuando hace ejercicio u otra actividad física?",
+    "diagnostico": "Usted puede tener ENFERMEDAD PULMONAR INTERSTICIAL O SARCOIDOSIS, ambas enfermedades pueden causar fibrosis pulmonar o HIPERTENSIÓN PULMONAR, es decir cuando las arterias que llevan sangre a los pulmones se hacen más angostas."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 7,
+    "Pregunta": "¿Se siente cansado todo el tiempo y se ve pálido?",
+    "diagnostico": "Usted podría tener ANEMIA, una afección en la cual el cuerpo no recibe suficiente oxígeno debido a una cantidad insuficiente de glóbulos rojos."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 8,
+    "Pregunta": "¿Está usted respirando rápido, sintiéndose con vértigo(mareo), entumecimiento u hormigueo en las manos o alrededor de la boca?",
+    "diagnostico": "Estos son los síntomas de la HIPERVENTILACIÓN, un episodio de respiración acelerada usualmente por causa de ejercicio o por angustia."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 9,
+    "Pregunta": "¿Tiene fiebre y tos productiva(flema) con sangre?",
+    "diagnostico": "Usted podría tener una INFECCIÓN o un problema más grave tal como CÁNCER DEL PULMÓN o EMBOLISMO PULMONAR."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 10,
+    "Pregunta": "¿Tiene fiebre con síntomas de gripe o de resfriado y una tosproductiva(flema)?",
+    "diagnostico": "Usted podría tener BRONQUITIS, una infección del árbol bronquial en los pulmones, o NEUMONÍA, una infección pulmonar grave" 
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 11,
+    "Pregunta": "¿Tiene usted fiebre, tos seca, dolor en el pecho y está bajando de peso(sin motivo aparente)",
+    "diagnostico": "Usted podría tener HISTOPLASMOSIS, una INFECCIÓN causada por un HONGO."
+  },
+  {
+    "Si": "/diagnostico",
+    "no": 0,
+    "Pregunta": "¿Tiene fiebre alta, dolor en el pecho, escalofríos y tos productiva abundante(flema)?",
+    "diagnostico": "Usted podría tener un ABSCESO PULMONAR causado por una INFECCIÓN.. "      
+  }
+  ]

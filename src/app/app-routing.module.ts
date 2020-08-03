@@ -16,10 +16,10 @@ const routes: Routes = [
   //   pathMatch: 'full'
   // },
 
-  // {
-  //   path: 'login',
-  //   loadChildren: () => import('./login/login.module').then(m => m.LoginPageModule)
-  // },
+  {
+    path: 'login',
+    loadChildren: () => import('./login/login.module').then(m => m.LoginPageModule)
+  },
   {
     path: 'register',
     loadChildren: () => import('./register/register.module').then(m => m.RegisterPageModule)
@@ -28,18 +28,18 @@ const routes: Routes = [
     path: 'dashboard',
     loadChildren: () => import('./dashboard/dashboard.module').then(m => m.DashboardPageModule)
   },
-  {
-    path: 'login',
-    loadChildren: () => import('./Pages/login/login.module').then( m => m.LoginPageModule), canActivate :[NologinGuard]
-  },
+  // {
+  //   path: 'login',
+  //   loadChildren: () => import('./Pages/login/login.module').then( m => m.LoginPageModule), canActivate :[NologinGuard]
+  // },
   {
     path: 'tutorial',
     loadChildren: () => import('./Pages/tutorial/tutorial.module').then( m => m.TutorialPageModule)
   },
-  // {
-  //   path: 'home',
-  //   loadChildren: () => import('./Pages/home/home.module').then( m => m.HomePageModule), canActivate :[AuthGuard]
-  // },
+  {
+    path: 'home',
+    loadChildren: () => import('./Pages/home/home.module').then( m => m.HomePageModule), canActivate :[AuthGuard]
+  },
   {
     path: 'dieta',
     loadChildren: () => import('./Pages/dieta/dieta.module').then( m => m.DietaPageModule)

@@ -31,7 +31,7 @@ export class LoginPage implements OnInit {
         Validators.pattern('^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+.[a-zA-Z0-9-.]+$')
       ])),
       password: new FormControl('', Validators.compose([
-        Validators.minLength(5),
+        Validators.minLength(6),
         Validators.required
       ])),
     });
@@ -40,12 +40,12 @@ export class LoginPage implements OnInit {
 
   validation_messages = {
     'email': [
-      { type: 'required', message: 'Email is required.' },
-      { type: 'pattern', message: 'Please enter a valid email.' }
+      { type: 'required', message: 'Se requiere un correo electrónico.' },
+      { type: 'pattern', message: 'Por favor, ingresar un correo válido.' }
     ],
     'password': [
-      { type: 'required', message: 'Password is required.' },
-      { type: 'minlength', message: 'Password must be at least 5 characters long.' }
+      { type: 'required', message: 'Se requiere contraseña.' },
+      { type: 'minlength', message: 'La contraseña tiene que ser de al menos 6 caracteres.' }
     ]
   };
 
@@ -55,9 +55,9 @@ export class LoginPage implements OnInit {
       .then(res => {
         console.log(res);
         this.errorMessage = "";
-        this.navCtrl.navigateForward('/dashboard');
+        this.navCtrl.navigateForward('/home');
       }, err => {
-        this.errorMessage = err.message;
+        this.errorMessage = "Contraseña o usuario inválidos";
       })
   }
 

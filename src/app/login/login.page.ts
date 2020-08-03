@@ -2,7 +2,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormBuilder, Validators, FormControl } from '@angular/forms';
 import { NavController } from '@ionic/angular';
-import { AuthenticationService } from '../services/authentication.service';
 import { AuthenticateService } from '../Services/authenticate.service';
 
 @Component({

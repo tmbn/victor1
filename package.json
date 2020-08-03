@@ -23,6 +23,7 @@
     "@angular/router": "~9.1.6",
     "@ionic-native/core": "^5.22.0-beta-1",
     "@ionic-native/facebook": "^5.27.0",
+    "@ionic-native/firebase-authentication": "^5.27.0",
     "@ionic-native/geolocation": "^5.26.0",
     "@ionic-native/google-maps": "^5.0.0-beta.27",
     "@ionic-native/http": "^5.26.0",
@@ -30,13 +31,16 @@
     "@ionic-native/status-bar": "^5.0.0",
     "@ionic/angular": "^5.0.0",
     "apk": "1.2.0",
-    "cordova-android": "8.1.0",
+    "cordova-android": "^9.0.0",
     "cordova-plugin-advanced-http": "^2.5.1",
     "cordova-plugin-facebook4": "^6.4.0",
     "cordova-plugin-file": "^6.0.2",
+    "cordova-plugin-firebase-authentication": "^3.3.1",
     "cordova-plugin-geolocation": "^4.0.2",
     "cordova-plugin-ionic": "^5.4.7",
-    "firebase": "^7.15.0",
+    "cordova-support-android-plugin": "^1.0.2",
+    "cordova-support-google-services": "^1.4.1",
+    "firebase": "^7.17.1",
     "rxjs": "~6.5.1",
     "tslib": "^1.10.0",
     "web-animations-js": "^2.3.2",
@@ -55,7 +59,7 @@
     "codelyzer": "^5.1.2",
     "cordova-plugin-device": "^2.0.2",
     "cordova-plugin-ionic-keyboard": "^2.2.0",
-    "cordova-plugin-ionic-webview": "^4.2.1",
+    "cordova-plugin-ionic-webview": "^5.0.0",
     "cordova-plugin-splashscreen": "^5.0.2",
     "cordova-plugin-statusbar": "^2.4.2",
     "cordova-plugin-whitelist": "^1.3.3",
@@ -66,7 +70,7 @@
     "karma-coverage-istanbul-reporter": "~2.1.0",
     "karma-jasmine": "~3.0.1",
     "karma-jasmine-html-reporter": "^1.4.2",
-    "protractor": "~5.4.3",
+    "protractor": "^7.0.0",
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~3.8.3"
@@ -99,6 +103,9 @@
         "MAX_STORE": "2",
         "MIN_BACKGROUND_DURATION": "30",
         "UPDATE_API": "https://api.ionicjs.com"
+      },
+      "cordova-plugin-firebase-authentication": {
+        "FIREBASE_AUTH_VERSION": "19.3.+"
       }
     },
     "platforms": [

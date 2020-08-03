@@ -11,10 +11,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { PipesModule } from './pipes/pipes.module';
 import { HTTP } from '@ionic-native/http/ngx';
 import { from } from 'rxjs';
-import { firebaseConfig } from '../environments/environment';
+
+
 import { AngularFireModule } from '@angular/fire';
 import { AngularFireAuthModule } from '@angular/fire/auth';
-import { AngularFirestoreModule, FirestoreSettingsToken } from '@angular/fire/firestore';
+import { AngularFireDatabaseModule } from '@angular/fire/database';
+import { AngularFirestoreModule } from '@angular/fire/firestore';
+import { environment } from '../environments/environment';
+
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HttpClientModule } from '@angular/common/http';
 
@@ -27,14 +31,17 @@ import { Facebook } from '@ionic-native/facebook/ngx';
   declarations: [AppComponent],
   entryComponents: [],
   imports: [BrowserModule, IonicModule.forRoot(), AppRoutingModule,PipesModule ,HttpClientModule,
-    AngularFireModule.initializeApp(firebaseConfig), AngularFireAuthModule, AngularFirestoreModule, BrowserAnimationsModule,
+    AngularFireModule.initializeApp(environment.firebaseConfig), AngularFireAuthModule, AngularFirestoreModule, BrowserAnimationsModule,
+    AngularFireAuthModule,
+    AngularFireDatabaseModule,
+    AngularFirestoreModule
   ],
-  providers: [HTTP,
-    StatusBar,Geolocation,
+  providers: [HTTP,AngularFirestoreModule,
+    StatusBar,Geolocation,Facebook,
     SplashScreen,
-    Facebook,
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy }
   ],
   bootstrap: [AppComponent]
 })
 export class AppModule {}
+

@@ -5,24 +5,41 @@ import { NologinGuard } from './guards/nologin.guard';
 
 
 const routes: Routes = [
-  
   {
     path: '',
-    redirectTo: 'tutorial',
+    redirectTo: 'login',
     pathMatch: 'full'
   },
+  // {
+  //   path: '',
+  //   redirectTo: 'tutorial',
+  //   pathMatch: 'full'
+  // },
+
   {
     path: 'login',
-    loadChildren: () => import('./Pages/login/login.module').then( m => m.LoginPageModule), canActivate :[NologinGuard]
+    loadChildren: () => import('./login/login.module').then(m => m.LoginPageModule)
   },
+  {
+    path: 'register',
+    loadChildren: () => import('./register/register.module').then(m => m.RegisterPageModule)
+  },
+  {
+    path: 'dashboard',
+    loadChildren: () => import('./dashboard/dashboard.module').then(m => m.DashboardPageModule)
+  },
+  // {
+  //   path: 'login',
+  //   loadChildren: () => import('./Pages/login/login.module').then( m => m.LoginPageModule), canActivate :[NologinGuard]
+  // },
   {
     path: 'tutorial',
     loadChildren: () => import('./Pages/tutorial/tutorial.module').then( m => m.TutorialPageModule)
   },
-  {
-    path: 'home',
-    loadChildren: () => import('./Pages/home/home.module').then( m => m.HomePageModule), canActivate :[AuthGuard]
-  },
+  // {
+  //   path: 'home',
+  //   loadChildren: () => import('./Pages/home/home.module').then( m => m.HomePageModule), canActivate :[AuthGuard]
+  // },
   {
     path: 'dieta',
     loadChildren: () => import('./Pages/dieta/dieta.module').then( m => m.DietaPageModule)
@@ -81,6 +98,7 @@ const routes: Routes = [
     loadChildren: () => import('./Pages/lista-doctores/lista-doctores.module').then( m => m.ListaDoctoresPageModule)
   },
  
+ 
 ];
 
 @NgModule({
@@ -90,3 +108,4 @@ const routes: Routes = [
   exports: [RouterModule]
 })
 export class AppRoutingModule { }
+

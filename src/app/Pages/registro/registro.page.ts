@@ -25,8 +25,7 @@ export class RegistroPage implements OnInit {
   pass2;
   tipoPass='password';
 
-  constructor(private auth:AuthService, private router: Router,public loadingController: LoadingController,
-              )  { 
+  constructor(private auth:AuthService, private router: Router,public loadingController: LoadingController,)  { 
               
     
   }
